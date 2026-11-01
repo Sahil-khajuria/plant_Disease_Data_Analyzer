@@ -73,21 +73,43 @@ with tab_diag:
     col_up, col_info = st.columns([1, 1], gap="medium")
 
     with col_up:
-        input_method = st.radio("Choose image source:", ["File Upload", "Camera Snapshot"], horizontal=True)
+        input_method = st.radio("Choose image source:", ["Sample Test Image", "File Upload", "Camera Snapshot"], horizontal=True)
         uploaded_file = None
-        if input_method == "File Upload":
+        leaf_img = None
+
+        if input_method == "Sample Test Image":
+            sample_choices = {
+                "Tomato - Early Blight (Blight lesions & halo)": ("sample_images/tomato_early_blight.png", "Tomato"),
+                "Tomato - Healthy Leaf (Uniform green)": ("sample_images/tomato_healthy.png", "Tomato"),
+                "Potato - Late Blight (Water-soaked decay)": ("sample_images/potato_late_blight.png", "Potato"),
+                "Grape - Black Rot (Necrotic circular spots)": ("sample_images/grape_black_rot.png", "Grape"),
+                "Maize - Common Rust (Cinnamon pustules)": ("sample_images/maize_common_rust.png", "Maize"),
+            }
+            sample_name = st.selectbox("Select a demonstration sample leaf:", list(sample_choices.keys()))
+            sample_path, sample_crop = sample_choices[sample_name]
+            full_sample_path = os.path.join(os.path.dirname(__file__), sample_path)
+            if os.path.exists(full_sample_path):
+                leaf_img = Image.open(full_sample_path)
+            default_crop_index = CROP_OPTIONS.index(sample_crop) if sample_crop in CROP_OPTIONS else 0
+        elif input_method == "File Upload":
             uploaded_file = st.file_uploader(
                 "Upload a clear photo of the crop leaf", 
                 type=["jpg", "jpeg", "png", "webp"],
                 help="Supported crops: Tomato, Potato, Grape, Apple, Chilli, Maize"
             )
+            if uploaded_file is not None:
+                leaf_img = Image.open(uploaded_file)
+            default_crop_index = 0
         else:
             uploaded_file = st.camera_input("Take a photo of the plant leaf")
+            if uploaded_file is not None:
+                leaf_img = Image.open(uploaded_file)
+            default_crop_index = 0
 
         sel_crop = st.selectbox(
             "Select Crop Type", 
             CROP_OPTIONS, 
-            index=0, 
+            index=default_crop_index, 
             help="Specify the crop being analyzed for targeted disease diagnosis"
         )
         diag_region = st.selectbox(
@@ -97,9 +119,8 @@ with tab_diag:
         )
 
     with col_info:
-        if uploaded_file is not None:
-            leaf_img = Image.open(uploaded_file)
-            st.image(leaf_img, caption="Uploaded Leaf Image", use_container_width=True)
+        if leaf_img is not None:
+            st.image(leaf_img, caption="Leaf Image Under Analysis", use_container_width=True)
             
             with st.spinner("Analyzing foliar morphology and lesion patterns..."):
                 result = analyze_leaf_image(leaf_img, selected_crop=sel_crop)
