@@ -1,0 +1,1201 @@
+report_id,date,crop,disease,region,severity,affected_area_pct,report_source,notes
+R00499,2025-01-01,Apple,Black Rot,Bengaluru Rural,Moderate,59.9,Farmer report,Synthetic sample record for academic demonstration
+R00256,2025-01-01,Grape,Healthy,Chamarajanagar,Low,3.0,Farmer report,Synthetic sample record for academic demonstration
+R00330,2025-01-01,Grape,Healthy,Hassan,Low,2.8,Field survey,Synthetic sample record for academic demonstration
+R00273,2025-01-02,Grape,Black Rot,Dharwad,Moderate,35.1,Farmer report,Synthetic sample record for academic demonstration
+R00043,2025-01-02,Potato,Healthy,Mandya,Low,4.2,Field survey,Synthetic sample record for academic demonstration
+R00899,2025-01-02,Tomato,Late Blight,Dharwad,High,82.4,Demo entry,Synthetic sample record for academic demonstration
+R00096,2025-01-02,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,44.5,Demo entry,Synthetic sample record for academic demonstration
+R00314,2025-01-02,Potato,Early Blight,Bengaluru Rural,Moderate,40.9,Farmer report,Synthetic sample record for academic demonstration
+R00014,2025-01-03,Grape,Healthy,Tumakuru,Low,0.8,Field survey,Synthetic sample record for academic demonstration
+R00557,2025-01-03,Tomato,Early Blight,Tumakuru,High,71.9,Demo entry,Synthetic sample record for academic demonstration
+R00780,2025-01-03,Apple,Cedar Apple Rust,Hassan,Moderate,19.7,Field survey,Synthetic sample record for academic demonstration
+R00042,2025-01-03,Grape,Healthy,Belagavi,Low,1.9,Field survey,Synthetic sample record for academic demonstration
+R00620,2025-01-03,Maize,Northern Leaf Blight,Mysuru,High,57.6,Field survey,Synthetic sample record for academic demonstration
+R00538,2025-01-05,Apple,Apple Scab,Bengaluru Rural,Moderate,17.3,Demo entry,Synthetic sample record for academic demonstration
+R01113,2025-01-05,Tomato,Late Blight,Tumakuru,High,20.8,Farmer report,Synthetic sample record for academic demonstration
+R01066,2025-01-05,Potato,Healthy,Dharwad,Low,4.8,Demo entry,Synthetic sample record for academic demonstration
+R00503,2025-01-05,Grape,Black Rot,Belagavi,High,26.6,Demo entry,Synthetic sample record for academic demonstration
+R00033,2025-01-05,Apple,Black Rot,Bengaluru Rural,High,49.1,Farmer report,Synthetic sample record for academic demonstration
+R00870,2025-01-05,Potato,Late Blight,Belagavi,Moderate,41.6,Demo entry,Synthetic sample record for academic demonstration
+R00423,2025-01-05,Chilli,Leaf Curl,Mysuru,Moderate,33.3,Field survey,Synthetic sample record for academic demonstration
+R00832,2025-01-05,Grape,Leaf Blight,Hassan,Low,40.0,Field survey,Synthetic sample record for academic demonstration
+R00008,2025-01-06,Potato,Late Blight,Tumakuru,Moderate,53.3,Farmer report,Synthetic sample record for academic demonstration
+R00521,2025-01-08,Potato,Late Blight,Mandya,Moderate,13.7,Demo entry,Synthetic sample record for academic demonstration
+R00245,2025-01-08,Tomato,Early Blight,Mandya,High,8.4,Farmer report,Synthetic sample record for academic demonstration
+R00830,2025-01-08,Grape,Leaf Blight,Mandya,Low,84.1,Farmer report,Synthetic sample record for academic demonstration
+R00887,2025-01-08,Maize,Northern Leaf Blight,Belagavi,Low,31.6,Field survey,Synthetic sample record for academic demonstration
+R00624,2025-01-09,Potato,Late Blight,Bengaluru Rural,Low,74.9,Field survey,Synthetic sample record for academic demonstration
+R00732,2025-01-09,Apple,Healthy,Tumakuru,Low,2.6,Farmer report,Synthetic sample record for academic demonstration
+R00383,2025-01-10,Chilli,Healthy,Chamarajanagar,Low,5.0,Field survey,Synthetic sample record for academic demonstration
+R00930,2025-01-11,Chilli,Healthy,Mysuru,Low,0.7,Demo entry,Synthetic sample record for academic demonstration
+R00339,2025-01-11,Potato,Healthy,Mysuru,Low,1.8,Field survey,Synthetic sample record for academic demonstration
+R01138,2025-01-11,Grape,Leaf Blight,Mysuru,High,8.0,Demo entry,Synthetic sample record for academic demonstration
+R01162,2025-01-12,Grape,Esca,Chamarajanagar,High,45.1,Field survey,Synthetic sample record for academic demonstration
+R00390,2025-01-12,Potato,Early Blight,Hassan,Moderate,60.2,Demo entry,Synthetic sample record for academic demonstration
+R00065,2025-01-13,Apple,Healthy,Hassan,Low,4.7,Field survey,Synthetic sample record for academic demonstration
+R01155,2025-01-13,Tomato,Healthy,Chamarajanagar,Low,5.0,Field survey,Synthetic sample record for academic demonstration
+R00976,2025-01-13,Tomato,Septoria Leaf Spot,Belagavi,Moderate,22.0,Field survey,Synthetic sample record for academic demonstration
+R00820,2025-01-13,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,25.2,Demo entry,Synthetic sample record for academic demonstration
+R00843,2025-01-13,Tomato,Early Blight,Tumakuru,Moderate,14.4,Field survey,Synthetic sample record for academic demonstration
+R00884,2025-01-14,Apple,Cedar Apple Rust,Bengaluru Rural,Low,24.6,Field survey,Synthetic sample record for academic demonstration
+R00012,2025-01-14,Maize,Gray Leaf Spot,Tumakuru,Low,53.7,Demo entry,Synthetic sample record for academic demonstration
+R00601,2025-01-14,Grape,Esca,Mandya,High,8.2,Field survey,Synthetic sample record for academic demonstration
+R00175,2025-01-15,Grape,Esca,Chamarajanagar,Moderate,39.3,Field survey,Synthetic sample record for academic demonstration
+R01108,2025-01-15,Apple,Cedar Apple Rust,Mandya,Moderate,58.6,Demo entry,Synthetic sample record for academic demonstration
+R00515,2025-01-15,Maize,Common Rust,Mysuru,High,66.4,Farmer report,Synthetic sample record for academic demonstration
+R00293,2025-01-15,Chilli,Anthracnose,Mandya,Low,56.9,Farmer report,Synthetic sample record for academic demonstration
+R01124,2025-01-16,Tomato,Healthy,Belagavi,Low,1.3,Demo entry,Synthetic sample record for academic demonstration
+R00776,2025-01-16,Maize,Northern Leaf Blight,Bengaluru Rural,Low,59.9,Demo entry,Synthetic sample record for academic demonstration
+R00881,2025-01-16,Maize,Gray Leaf Spot,Mysuru,Low,11.6,Field survey,Synthetic sample record for academic demonstration
+R01160,2025-01-16,Chilli,Healthy,Mysuru,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00090,2025-01-16,Tomato,Healthy,Mysuru,Low,2.0,Demo entry,Synthetic sample record for academic demonstration
+R00912,2025-01-17,Maize,Healthy,Tumakuru,Low,2.4,Farmer report,Synthetic sample record for academic demonstration
+R00846,2025-01-18,Grape,Esca,Bengaluru Rural,Low,81.3,Demo entry,Synthetic sample record for academic demonstration
+R00615,2025-01-18,Chilli,Healthy,Hassan,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00059,2025-01-18,Apple,Black Rot,Dharwad,Low,40.1,Farmer report,Synthetic sample record for academic demonstration
+R00815,2025-01-18,Apple,Cedar Apple Rust,Tumakuru,Moderate,47.0,Field survey,Synthetic sample record for academic demonstration
+R00007,2025-01-19,Chilli,Healthy,Dharwad,Low,1.3,Field survey,Synthetic sample record for academic demonstration
+R00901,2025-01-19,Maize,Healthy,Bengaluru Rural,Low,5.0,Demo entry,Synthetic sample record for academic demonstration
+R00680,2025-01-19,Tomato,Healthy,Dharwad,Low,4.8,Field survey,Synthetic sample record for academic demonstration
+R01121,2025-01-20,Potato,Early Blight,Dharwad,Moderate,40.2,Field survey,Synthetic sample record for academic demonstration
+R00301,2025-01-20,Chilli,Healthy,Dharwad,Low,2.8,Farmer report,Synthetic sample record for academic demonstration
+R00184,2025-01-20,Apple,Healthy,Tumakuru,Low,3.8,Demo entry,Synthetic sample record for academic demonstration
+R00336,2025-01-20,Chilli,Leaf Curl,Mysuru,Moderate,16.3,Demo entry,Synthetic sample record for academic demonstration
+R01038,2025-01-20,Tomato,Bacterial Spot,Dharwad,Moderate,63.7,Farmer report,Synthetic sample record for academic demonstration
+R00388,2025-01-21,Maize,Common Rust,Dharwad,Moderate,70.2,Demo entry,Synthetic sample record for academic demonstration
+R00380,2025-01-21,Tomato,Septoria Leaf Spot,Tumakuru,High,33.4,Field survey,Synthetic sample record for academic demonstration
+R01028,2025-01-21,Grape,Black Rot,Mysuru,High,74.1,Field survey,Synthetic sample record for academic demonstration
+R00975,2025-01-21,Grape,Black Rot,Bengaluru Rural,Low,16.3,Demo entry,Synthetic sample record for academic demonstration
+R00294,2025-01-22,Tomato,Healthy,Mysuru,Low,4.4,Field survey,Synthetic sample record for academic demonstration
+R00421,2025-01-22,Potato,Late Blight,Mysuru,Moderate,47.3,Farmer report,Synthetic sample record for academic demonstration
+R00125,2025-01-23,Chilli,Anthracnose,Hassan,High,40.6,Demo entry,Synthetic sample record for academic demonstration
+R00251,2025-01-23,Potato,Healthy,Mandya,Low,2.8,Demo entry,Synthetic sample record for academic demonstration
+R01192,2025-01-23,Apple,Apple Scab,Bengaluru Rural,Low,7.4,Demo entry,Synthetic sample record for academic demonstration
+R00927,2025-01-24,Tomato,Early Blight,Belagavi,Moderate,38.0,Demo entry,Synthetic sample record for academic demonstration
+R01105,2025-01-24,Grape,Black Rot,Chamarajanagar,Moderate,24.7,Field survey,Synthetic sample record for academic demonstration
+R00413,2025-01-24,Apple,Apple Scab,Chamarajanagar,Moderate,83.8,Demo entry,Synthetic sample record for academic demonstration
+R00274,2025-01-25,Chilli,Leaf Curl,Mandya,High,72.3,Farmer report,Synthetic sample record for academic demonstration
+R00134,2025-01-25,Grape,Esca,Mandya,Moderate,51.0,Field survey,Synthetic sample record for academic demonstration
+R00853,2025-01-25,Potato,Late Blight,Dharwad,Moderate,71.7,Farmer report,Synthetic sample record for academic demonstration
+R00764,2025-01-25,Chilli,Leaf Curl,Dharwad,Low,32.3,Field survey,Synthetic sample record for academic demonstration
+R00807,2025-01-25,Apple,Cedar Apple Rust,Mandya,Low,17.5,Farmer report,Synthetic sample record for academic demonstration
+R00918,2025-01-27,Grape,Leaf Blight,Hassan,Low,46.2,Demo entry,Synthetic sample record for academic demonstration
+R00697,2025-01-27,Chilli,Healthy,Mysuru,Low,1.5,Farmer report,Synthetic sample record for academic demonstration
+R01175,2025-01-28,Tomato,Bacterial Spot,Bengaluru Rural,High,8.0,Field survey,Synthetic sample record for academic demonstration
+R00183,2025-01-28,Grape,Black Rot,Belagavi,Low,58.7,Field survey,Synthetic sample record for academic demonstration
+R00185,2025-01-28,Maize,Common Rust,Tumakuru,Low,14.6,Farmer report,Synthetic sample record for academic demonstration
+R00319,2025-01-29,Chilli,Leaf Curl,Bengaluru Rural,Moderate,37.6,Farmer report,Synthetic sample record for academic demonstration
+R00078,2025-01-29,Maize,Common Rust,Mandya,Low,40.9,Demo entry,Synthetic sample record for academic demonstration
+R00504,2025-01-29,Maize,Northern Leaf Blight,Dharwad,High,40.9,Farmer report,Synthetic sample record for academic demonstration
+R00529,2025-01-29,Chilli,Healthy,Mysuru,Low,4.4,Farmer report,Synthetic sample record for academic demonstration
+R00121,2025-01-30,Apple,Healthy,Mysuru,Low,1.7,Farmer report,Synthetic sample record for academic demonstration
+R00010,2025-01-31,Grape,Esca,Bengaluru Rural,Low,71.6,Field survey,Synthetic sample record for academic demonstration
+R00959,2025-01-31,Tomato,Septoria Leaf Spot,Dharwad,Low,60.9,Farmer report,Synthetic sample record for academic demonstration
+R00126,2025-01-31,Tomato,Bacterial Spot,Bengaluru Rural,Low,82.9,Field survey,Synthetic sample record for academic demonstration
+R01143,2025-01-31,Maize,Northern Leaf Blight,Bengaluru Rural,Low,17.5,Demo entry,Synthetic sample record for academic demonstration
+R00821,2025-02-01,Potato,Healthy,Mandya,Low,2.5,Field survey,Synthetic sample record for academic demonstration
+R00978,2025-02-01,Grape,Healthy,Dharwad,Low,1.8,Demo entry,Synthetic sample record for academic demonstration
+R00775,2025-02-01,Apple,Healthy,Chamarajanagar,Low,1.7,Farmer report,Synthetic sample record for academic demonstration
+R01090,2025-02-02,Tomato,Septoria Leaf Spot,Bengaluru Rural,High,9.6,Demo entry,Synthetic sample record for academic demonstration
+R00724,2025-02-02,Potato,Healthy,Mysuru,Low,1.5,Demo entry,Synthetic sample record for academic demonstration
+R01004,2025-02-02,Tomato,Bacterial Spot,Mandya,Moderate,51.3,Field survey,Synthetic sample record for academic demonstration
+R00709,2025-02-02,Tomato,Septoria Leaf Spot,Belagavi,Low,21.6,Field survey,Synthetic sample record for academic demonstration
+R00291,2025-02-03,Chilli,Anthracnose,Bengaluru Rural,Moderate,74.1,Farmer report,Synthetic sample record for academic demonstration
+R01045,2025-02-03,Grape,Black Rot,Belagavi,Moderate,51.1,Farmer report,Synthetic sample record for academic demonstration
+R00327,2025-02-04,Chilli,Anthracnose,Dharwad,High,36.7,Farmer report,Synthetic sample record for academic demonstration
+R00703,2025-02-06,Potato,Early Blight,Tumakuru,High,72.6,Field survey,Synthetic sample record for academic demonstration
+R00954,2025-02-06,Tomato,Healthy,Mandya,Low,3.8,Demo entry,Synthetic sample record for academic demonstration
+R00693,2025-02-06,Apple,Black Rot,Belagavi,Low,84.3,Farmer report,Synthetic sample record for academic demonstration
+R00227,2025-02-07,Potato,Early Blight,Chamarajanagar,Moderate,15.0,Demo entry,Synthetic sample record for academic demonstration
+R00127,2025-02-07,Apple,Apple Scab,Bengaluru Rural,High,69.1,Field survey,Synthetic sample record for academic demonstration
+R00261,2025-02-07,Chilli,Healthy,Tumakuru,Low,1.4,Farmer report,Synthetic sample record for academic demonstration
+R00800,2025-02-07,Tomato,Bacterial Spot,Tumakuru,Low,75.4,Demo entry,Synthetic sample record for academic demonstration
+R01186,2025-02-07,Tomato,Early Blight,Bengaluru Rural,High,44.9,Demo entry,Synthetic sample record for academic demonstration
+R00746,2025-02-07,Grape,Leaf Blight,Mysuru,Moderate,13.0,Demo entry,Synthetic sample record for academic demonstration
+R00053,2025-02-07,Potato,Healthy,Tumakuru,Low,0.1,Demo entry,Synthetic sample record for academic demonstration
+R00035,2025-02-07,Grape,Esca,Bengaluru Rural,Low,72.3,Farmer report,Synthetic sample record for academic demonstration
+R00972,2025-02-08,Apple,Healthy,Tumakuru,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00708,2025-02-08,Apple,Healthy,Belagavi,Low,1.8,Field survey,Synthetic sample record for academic demonstration
+R00500,2025-02-08,Tomato,Septoria Leaf Spot,Bengaluru Rural,Moderate,60.6,Demo entry,Synthetic sample record for academic demonstration
+R00356,2025-02-08,Chilli,Leaf Curl,Dharwad,Low,81.0,Field survey,Synthetic sample record for academic demonstration
+R00808,2025-02-09,Chilli,Anthracnose,Bengaluru Rural,Moderate,14.5,Field survey,Synthetic sample record for academic demonstration
+R00955,2025-02-09,Maize,Northern Leaf Blight,Mandya,Moderate,80.0,Field survey,Synthetic sample record for academic demonstration
+R00089,2025-02-09,Maize,Common Rust,Hassan,Low,75.2,Farmer report,Synthetic sample record for academic demonstration
+R00268,2025-02-09,Apple,Black Rot,Dharwad,Moderate,77.2,Field survey,Synthetic sample record for academic demonstration
+R00754,2025-02-10,Grape,Black Rot,Belagavi,Low,28.4,Field survey,Synthetic sample record for academic demonstration
+R01146,2025-02-10,Chilli,Anthracnose,Hassan,Low,45.5,Demo entry,Synthetic sample record for academic demonstration
+R00260,2025-02-10,Grape,Esca,Mysuru,Moderate,77.4,Demo entry,Synthetic sample record for academic demonstration
+R00372,2025-02-10,Maize,Gray Leaf Spot,Mysuru,Moderate,8.6,Demo entry,Synthetic sample record for academic demonstration
+R00678,2025-02-10,Maize,Gray Leaf Spot,Belagavi,High,75.3,Farmer report,Synthetic sample record for academic demonstration
+R01191,2025-02-11,Potato,Late Blight,Mysuru,High,9.9,Demo entry,Synthetic sample record for academic demonstration
+R01042,2025-02-11,Apple,Cedar Apple Rust,Chamarajanagar,Low,25.3,Farmer report,Synthetic sample record for academic demonstration
+R00934,2025-02-11,Tomato,Bacterial Spot,Tumakuru,Moderate,35.1,Demo entry,Synthetic sample record for academic demonstration
+R00272,2025-02-11,Chilli,Leaf Curl,Tumakuru,High,15.7,Demo entry,Synthetic sample record for academic demonstration
+R00921,2025-02-12,Chilli,Healthy,Tumakuru,Low,0.8,Demo entry,Synthetic sample record for academic demonstration
+R00917,2025-02-12,Apple,Black Rot,Dharwad,Low,71.2,Farmer report,Synthetic sample record for academic demonstration
+R00829,2025-02-12,Chilli,Healthy,Mysuru,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00768,2025-02-13,Apple,Healthy,Tumakuru,Low,2.7,Farmer report,Synthetic sample record for academic demonstration
+R00636,2025-02-13,Grape,Black Rot,Mysuru,Low,49.1,Demo entry,Synthetic sample record for academic demonstration
+R00030,2025-02-14,Grape,Healthy,Dharwad,Low,0.1,Field survey,Synthetic sample record for academic demonstration
+R00228,2025-02-14,Maize,Gray Leaf Spot,Tumakuru,Moderate,33.7,Farmer report,Synthetic sample record for academic demonstration
+R00589,2025-02-15,Grape,Healthy,Bengaluru Rural,Low,4.0,Farmer report,Synthetic sample record for academic demonstration
+R00960,2025-02-15,Maize,Healthy,Bengaluru Rural,Low,1.4,Demo entry,Synthetic sample record for academic demonstration
+R00367,2025-02-16,Tomato,Septoria Leaf Spot,Hassan,Low,79.3,Farmer report,Synthetic sample record for academic demonstration
+R00498,2025-02-16,Maize,Common Rust,Dharwad,Moderate,27.4,Demo entry,Synthetic sample record for academic demonstration
+R00603,2025-02-16,Tomato,Healthy,Chamarajanagar,Low,4.1,Demo entry,Synthetic sample record for academic demonstration
+R00659,2025-02-17,Tomato,Septoria Leaf Spot,Mysuru,Moderate,82.4,Demo entry,Synthetic sample record for academic demonstration
+R00162,2025-02-17,Potato,Healthy,Belagavi,Low,1.5,Demo entry,Synthetic sample record for academic demonstration
+R00112,2025-02-18,Grape,Leaf Blight,Hassan,Low,72.7,Field survey,Synthetic sample record for academic demonstration
+R00255,2025-02-18,Chilli,Healthy,Bengaluru Rural,Low,0.9,Demo entry,Synthetic sample record for academic demonstration
+R01150,2025-02-19,Potato,Healthy,Dharwad,Low,1.3,Demo entry,Synthetic sample record for academic demonstration
+R01136,2025-02-19,Potato,Late Blight,Mandya,Moderate,18.7,Farmer report,Synthetic sample record for academic demonstration
+R00803,2025-02-19,Chilli,Anthracnose,Chamarajanagar,Low,16.9,Field survey,Synthetic sample record for academic demonstration
+R00952,2025-02-19,Apple,Black Rot,Dharwad,Low,21.2,Demo entry,Synthetic sample record for academic demonstration
+R00748,2025-02-19,Maize,Healthy,Mandya,Low,4.9,Farmer report,Synthetic sample record for academic demonstration
+R00595,2025-02-20,Maize,Healthy,Mandya,Low,0.9,Farmer report,Synthetic sample record for academic demonstration
+R00476,2025-02-21,Grape,Healthy,Mysuru,Low,1.0,Demo entry,Synthetic sample record for academic demonstration
+R00562,2025-02-21,Apple,Apple Scab,Dharwad,High,55.2,Field survey,Synthetic sample record for academic demonstration
+R00777,2025-02-21,Maize,Common Rust,Bengaluru Rural,Low,46.5,Field survey,Synthetic sample record for academic demonstration
+R01077,2025-02-22,Tomato,Bacterial Spot,Hassan,Low,24.7,Field survey,Synthetic sample record for academic demonstration
+R01153,2025-02-23,Chilli,Healthy,Bengaluru Rural,Low,4.6,Field survey,Synthetic sample record for academic demonstration
+R00795,2025-02-24,Tomato,Bacterial Spot,Tumakuru,Low,41.1,Demo entry,Synthetic sample record for academic demonstration
+R00438,2025-02-24,Maize,Healthy,Hassan,Low,5.0,Demo entry,Synthetic sample record for academic demonstration
+R01075,2025-02-24,Tomato,Late Blight,Chamarajanagar,Low,73.9,Farmer report,Synthetic sample record for academic demonstration
+R00283,2025-02-24,Tomato,Healthy,Tumakuru,Low,4.4,Demo entry,Synthetic sample record for academic demonstration
+R00278,2025-02-24,Grape,Healthy,Bengaluru Rural,Low,4.0,Farmer report,Synthetic sample record for academic demonstration
+R00368,2025-02-24,Maize,Common Rust,Bengaluru Rural,Moderate,47.6,Farmer report,Synthetic sample record for academic demonstration
+R00984,2025-02-25,Apple,Cedar Apple Rust,Belagavi,Moderate,9.0,Farmer report,Synthetic sample record for academic demonstration
+R00813,2025-02-25,Potato,Healthy,Mandya,Low,0.9,Field survey,Synthetic sample record for academic demonstration
+R00756,2025-02-26,Maize,Healthy,Hassan,Low,3.6,Field survey,Synthetic sample record for academic demonstration
+R00707,2025-02-26,Tomato,Septoria Leaf Spot,Hassan,Moderate,15.2,Farmer report,Synthetic sample record for academic demonstration
+R00009,2025-02-27,Grape,Leaf Blight,Dharwad,Low,84.8,Farmer report,Synthetic sample record for academic demonstration
+R00076,2025-02-28,Apple,Cedar Apple Rust,Belagavi,Moderate,46.5,Demo entry,Synthetic sample record for academic demonstration
+R01033,2025-02-28,Grape,Leaf Blight,Bengaluru Rural,Low,26.6,Demo entry,Synthetic sample record for academic demonstration
+R00269,2025-02-28,Maize,Common Rust,Dharwad,Moderate,49.8,Demo entry,Synthetic sample record for academic demonstration
+R00704,2025-03-01,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,81.7,Demo entry,Synthetic sample record for academic demonstration
+R00475,2025-03-01,Chilli,Healthy,Belagavi,Low,4.2,Farmer report,Synthetic sample record for academic demonstration
+R00190,2025-03-01,Grape,Black Rot,Belagavi,Low,29.9,Field survey,Synthetic sample record for academic demonstration
+R00491,2025-03-01,Grape,Healthy,Mysuru,Low,2.9,Field survey,Synthetic sample record for academic demonstration
+R00377,2025-03-02,Potato,Early Blight,Bengaluru Rural,Low,70.9,Demo entry,Synthetic sample record for academic demonstration
+R00211,2025-03-02,Tomato,Early Blight,Bengaluru Rural,High,38.7,Field survey,Synthetic sample record for academic demonstration
+R00633,2025-03-02,Grape,Healthy,Mandya,Low,4.0,Field survey,Synthetic sample record for academic demonstration
+R01151,2025-03-02,Apple,Healthy,Dharwad,Low,2.3,Field survey,Synthetic sample record for academic demonstration
+R00305,2025-03-03,Tomato,Early Blight,Mandya,Moderate,12.7,Farmer report,Synthetic sample record for academic demonstration
+R00986,2025-03-03,Chilli,Anthracnose,Tumakuru,Low,58.3,Field survey,Synthetic sample record for academic demonstration
+R00579,2025-03-04,Potato,Early Blight,Hassan,Low,10.0,Farmer report,Synthetic sample record for academic demonstration
+R00400,2025-03-04,Tomato,Late Blight,Hassan,Moderate,75.5,Farmer report,Synthetic sample record for academic demonstration
+R00612,2025-03-04,Potato,Healthy,Tumakuru,Low,4.0,Farmer report,Synthetic sample record for academic demonstration
+R00152,2025-03-04,Maize,Northern Leaf Blight,Hassan,Moderate,8.2,Field survey,Synthetic sample record for academic demonstration
+R00530,2025-03-04,Apple,Cedar Apple Rust,Tumakuru,Moderate,83.8,Farmer report,Synthetic sample record for academic demonstration
+R00106,2025-03-04,Tomato,Septoria Leaf Spot,Dharwad,Low,25.8,Farmer report,Synthetic sample record for academic demonstration
+R00673,2025-03-04,Chilli,Anthracnose,Belagavi,Moderate,13.0,Demo entry,Synthetic sample record for academic demonstration
+R00376,2025-03-05,Tomato,Septoria Leaf Spot,Hassan,Moderate,54.9,Field survey,Synthetic sample record for academic demonstration
+R00387,2025-03-05,Potato,Healthy,Tumakuru,Low,3.8,Farmer report,Synthetic sample record for academic demonstration
+R00086,2025-03-05,Apple,Apple Scab,Mysuru,High,37.6,Field survey,Synthetic sample record for academic demonstration
+R00993,2025-03-05,Grape,Healthy,Belagavi,Low,1.6,Demo entry,Synthetic sample record for academic demonstration
+R01040,2025-03-05,Tomato,Late Blight,Bengaluru Rural,High,33.0,Demo entry,Synthetic sample record for academic demonstration
+R00430,2025-03-06,Potato,Healthy,Belagavi,Low,2.9,Demo entry,Synthetic sample record for academic demonstration
+R00625,2025-03-06,Maize,Gray Leaf Spot,Belagavi,Moderate,76.3,Demo entry,Synthetic sample record for academic demonstration
+R00362,2025-03-07,Apple,Healthy,Dharwad,Low,2.0,Farmer report,Synthetic sample record for academic demonstration
+R01026,2025-03-07,Tomato,Healthy,Belagavi,Low,2.2,Field survey,Synthetic sample record for academic demonstration
+R01161,2025-03-07,Potato,Healthy,Belagavi,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R01080,2025-03-07,Apple,Apple Scab,Chamarajanagar,Moderate,50.0,Field survey,Synthetic sample record for academic demonstration
+R00167,2025-03-07,Potato,Late Blight,Tumakuru,Low,58.9,Farmer report,Synthetic sample record for academic demonstration
+R00750,2025-03-08,Potato,Early Blight,Bengaluru Rural,Low,27.5,Farmer report,Synthetic sample record for academic demonstration
+R00856,2025-03-08,Grape,Healthy,Belagavi,Low,0.6,Field survey,Synthetic sample record for academic demonstration
+R00550,2025-03-08,Chilli,Anthracnose,Belagavi,Low,8.5,Demo entry,Synthetic sample record for academic demonstration
+R00155,2025-03-09,Potato,Healthy,Mysuru,Low,2.0,Demo entry,Synthetic sample record for academic demonstration
+R00647,2025-03-09,Apple,Healthy,Chamarajanagar,Low,2.0,Field survey,Synthetic sample record for academic demonstration
+R00784,2025-03-09,Chilli,Anthracnose,Mandya,Moderate,28.0,Farmer report,Synthetic sample record for academic demonstration
+R00569,2025-03-09,Tomato,Late Blight,Hassan,High,5.6,Demo entry,Synthetic sample record for academic demonstration
+R00787,2025-03-10,Tomato,Bacterial Spot,Mysuru,Low,45.8,Field survey,Synthetic sample record for academic demonstration
+R00937,2025-03-11,Apple,Black Rot,Bengaluru Rural,High,79.1,Field survey,Synthetic sample record for academic demonstration
+R01111,2025-03-12,Chilli,Healthy,Hassan,Low,4.7,Farmer report,Synthetic sample record for academic demonstration
+R00687,2025-03-12,Grape,Healthy,Belagavi,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00814,2025-03-13,Maize,Common Rust,Mysuru,Low,40.8,Farmer report,Synthetic sample record for academic demonstration
+R00399,2025-03-13,Grape,Esca,Mysuru,Moderate,26.4,Demo entry,Synthetic sample record for academic demonstration
+R00616,2025-03-14,Tomato,Septoria Leaf Spot,Chamarajanagar,High,64.2,Field survey,Synthetic sample record for academic demonstration
+R00171,2025-03-14,Potato,Early Blight,Tumakuru,Low,22.8,Demo entry,Synthetic sample record for academic demonstration
+R00913,2025-03-14,Potato,Early Blight,Bengaluru Rural,Low,83.5,Demo entry,Synthetic sample record for academic demonstration
+R00627,2025-03-14,Tomato,Septoria Leaf Spot,Mysuru,Moderate,75.3,Demo entry,Synthetic sample record for academic demonstration
+R00048,2025-03-14,Apple,Apple Scab,Hassan,High,68.5,Field survey,Synthetic sample record for academic demonstration
+R00446,2025-03-14,Tomato,Early Blight,Chamarajanagar,High,57.5,Demo entry,Synthetic sample record for academic demonstration
+R00661,2025-03-15,Maize,Healthy,Dharwad,Low,1.2,Demo entry,Synthetic sample record for academic demonstration
+R00186,2025-03-15,Potato,Healthy,Hassan,Low,3.8,Field survey,Synthetic sample record for academic demonstration
+R01179,2025-03-15,Maize,Healthy,Chamarajanagar,Low,3.8,Field survey,Synthetic sample record for academic demonstration
+R00514,2025-03-15,Maize,Gray Leaf Spot,Tumakuru,Moderate,70.8,Farmer report,Synthetic sample record for academic demonstration
+R00343,2025-03-15,Chilli,Healthy,Mysuru,Low,3.9,Field survey,Synthetic sample record for academic demonstration
+R00695,2025-03-16,Chilli,Leaf Curl,Mandya,Low,59.7,Field survey,Synthetic sample record for academic demonstration
+R00020,2025-03-16,Potato,Healthy,Belagavi,Low,4.3,Demo entry,Synthetic sample record for academic demonstration
+R00051,2025-03-16,Apple,Cedar Apple Rust,Belagavi,Moderate,24.5,Field survey,Synthetic sample record for academic demonstration
+R00734,2025-03-17,Maize,Northern Leaf Blight,Hassan,Low,9.5,Demo entry,Synthetic sample record for academic demonstration
+R00866,2025-03-17,Maize,Healthy,Chamarajanagar,Low,0.6,Farmer report,Synthetic sample record for academic demonstration
+R00375,2025-03-17,Apple,Black Rot,Mandya,Moderate,17.9,Field survey,Synthetic sample record for academic demonstration
+R00298,2025-03-17,Chilli,Healthy,Bengaluru Rural,Low,1.6,Farmer report,Synthetic sample record for academic demonstration
+R00964,2025-03-18,Potato,Healthy,Dharwad,Low,4.7,Demo entry,Synthetic sample record for academic demonstration
+R00143,2025-03-18,Potato,Healthy,Belagavi,Low,0.6,Farmer report,Synthetic sample record for academic demonstration
+R00526,2025-03-18,Chilli,Anthracnose,Dharwad,Moderate,63.1,Demo entry,Synthetic sample record for academic demonstration
+R00385,2025-03-18,Tomato,Healthy,Mysuru,Low,1.6,Field survey,Synthetic sample record for academic demonstration
+R00102,2025-03-18,Grape,Leaf Blight,Hassan,Moderate,10.1,Farmer report,Synthetic sample record for academic demonstration
+R01082,2025-03-19,Maize,Northern Leaf Blight,Dharwad,High,72.6,Field survey,Synthetic sample record for academic demonstration
+R00097,2025-03-19,Grape,Black Rot,Bengaluru Rural,Moderate,33.7,Farmer report,Synthetic sample record for academic demonstration
+R00165,2025-03-19,Potato,Late Blight,Chamarajanagar,Low,36.2,Field survey,Synthetic sample record for academic demonstration
+R00189,2025-03-21,Tomato,Septoria Leaf Spot,Dharwad,Low,81.1,Demo entry,Synthetic sample record for academic demonstration
+R00027,2025-03-22,Grape,Healthy,Chamarajanagar,Low,3.3,Demo entry,Synthetic sample record for academic demonstration
+R00370,2025-03-22,Tomato,Healthy,Bengaluru Rural,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R00950,2025-03-22,Potato,Early Blight,Hassan,Low,69.0,Field survey,Synthetic sample record for academic demonstration
+R01048,2025-03-22,Grape,Esca,Dharwad,Moderate,67.5,Demo entry,Synthetic sample record for academic demonstration
+R00103,2025-03-22,Chilli,Anthracnose,Mysuru,Low,76.4,Field survey,Synthetic sample record for academic demonstration
+R00282,2025-03-22,Potato,Late Blight,Bengaluru Rural,Low,79.8,Farmer report,Synthetic sample record for academic demonstration
+R00674,2025-03-23,Potato,Healthy,Mandya,Low,4.3,Farmer report,Synthetic sample record for academic demonstration
+R00329,2025-03-24,Maize,Healthy,Mandya,Low,0.7,Farmer report,Synthetic sample record for academic demonstration
+R00968,2025-03-24,Tomato,Healthy,Mandya,Low,0.9,Farmer report,Synthetic sample record for academic demonstration
+R00522,2025-03-24,Apple,Cedar Apple Rust,Bengaluru Rural,High,52.6,Field survey,Synthetic sample record for academic demonstration
+R00025,2025-03-24,Grape,Esca,Chamarajanagar,Moderate,27.3,Farmer report,Synthetic sample record for academic demonstration
+R00439,2025-03-24,Apple,Cedar Apple Rust,Hassan,Low,64.6,Field survey,Synthetic sample record for academic demonstration
+R01109,2025-03-25,Chilli,Healthy,Chamarajanagar,Low,4.5,Demo entry,Synthetic sample record for academic demonstration
+R00118,2025-03-25,Chilli,Healthy,Hassan,Low,0.2,Field survey,Synthetic sample record for academic demonstration
+R00040,2025-03-25,Tomato,Septoria Leaf Spot,Mysuru,Moderate,24.9,Field survey,Synthetic sample record for academic demonstration
+R01065,2025-03-26,Grape,Healthy,Mandya,Low,0.2,Field survey,Synthetic sample record for academic demonstration
+R00474,2025-03-26,Potato,Healthy,Tumakuru,Low,1.8,Field survey,Synthetic sample record for academic demonstration
+R00311,2025-03-26,Apple,Healthy,Mysuru,Low,4.3,Farmer report,Synthetic sample record for academic demonstration
+R00600,2025-03-26,Apple,Healthy,Mysuru,Low,3.5,Field survey,Synthetic sample record for academic demonstration
+R01152,2025-03-26,Tomato,Septoria Leaf Spot,Mandya,Moderate,12.9,Field survey,Synthetic sample record for academic demonstration
+R00191,2025-03-27,Chilli,Leaf Curl,Mandya,Low,34.3,Field survey,Synthetic sample record for academic demonstration
+R00924,2025-03-27,Potato,Early Blight,Dharwad,High,77.9,Farmer report,Synthetic sample record for academic demonstration
+R00232,2025-03-27,Chilli,Healthy,Hassan,Low,1.7,Demo entry,Synthetic sample record for academic demonstration
+R00705,2025-03-28,Grape,Leaf Blight,Mandya,Low,9.3,Farmer report,Synthetic sample record for academic demonstration
+R00024,2025-03-28,Apple,Healthy,Tumakuru,Low,3.3,Field survey,Synthetic sample record for academic demonstration
+R01014,2025-03-28,Chilli,Anthracnose,Mandya,High,64.1,Field survey,Synthetic sample record for academic demonstration
+R00281,2025-03-28,Apple,Healthy,Tumakuru,Low,4.9,Demo entry,Synthetic sample record for academic demonstration
+R01064,2025-03-28,Apple,Healthy,Dharwad,Low,2.5,Farmer report,Synthetic sample record for academic demonstration
+R00824,2025-03-29,Tomato,Late Blight,Mandya,High,67.8,Field survey,Synthetic sample record for academic demonstration
+R00736,2025-03-29,Apple,Healthy,Hassan,Low,1.3,Field survey,Synthetic sample record for academic demonstration
+R00706,2025-03-29,Maize,Common Rust,Belagavi,Moderate,48.3,Farmer report,Synthetic sample record for academic demonstration
+R00239,2025-03-29,Grape,Healthy,Belagavi,Low,1.7,Farmer report,Synthetic sample record for academic demonstration
+R00358,2025-03-30,Chilli,Anthracnose,Mandya,Moderate,10.5,Farmer report,Synthetic sample record for academic demonstration
+R00852,2025-03-30,Tomato,Bacterial Spot,Tumakuru,Moderate,83.3,Field survey,Synthetic sample record for academic demonstration
+R00433,2025-03-30,Chilli,Healthy,Mysuru,Low,4.4,Field survey,Synthetic sample record for academic demonstration
+R00270,2025-03-31,Chilli,Healthy,Chamarajanagar,Low,4.7,Field survey,Synthetic sample record for academic demonstration
+R00771,2025-03-31,Potato,Healthy,Hassan,Low,2.2,Field survey,Synthetic sample record for academic demonstration
+R01190,2025-03-31,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,51.0,Field survey,Synthetic sample record for academic demonstration
+R00154,2025-03-31,Tomato,Septoria Leaf Spot,Bengaluru Rural,High,59.3,Farmer report,Synthetic sample record for academic demonstration
+R01036,2025-03-31,Potato,Healthy,Mandya,Low,4.3,Demo entry,Synthetic sample record for academic demonstration
+R00408,2025-04-01,Potato,Late Blight,Bengaluru Rural,Low,72.4,Field survey,Synthetic sample record for academic demonstration
+R01166,2025-04-01,Grape,Healthy,Chamarajanagar,Low,4.4,Farmer report,Synthetic sample record for academic demonstration
+R00079,2025-04-01,Maize,Common Rust,Bengaluru Rural,High,26.4,Farmer report,Synthetic sample record for academic demonstration
+R00570,2025-04-02,Potato,Healthy,Chamarajanagar,Low,3.6,Field survey,Synthetic sample record for academic demonstration
+R00997,2025-04-02,Chilli,Healthy,Mysuru,Low,4.0,Farmer report,Synthetic sample record for academic demonstration
+R00333,2025-04-03,Maize,Northern Leaf Blight,Tumakuru,Moderate,43.6,Field survey,Synthetic sample record for academic demonstration
+R00834,2025-04-03,Chilli,Healthy,Dharwad,Low,1.9,Field survey,Synthetic sample record for academic demonstration
+R00386,2025-04-04,Maize,Northern Leaf Blight,Mysuru,Moderate,18.1,Farmer report,Synthetic sample record for academic demonstration
+R00442,2025-04-05,Potato,Healthy,Dharwad,Low,4.1,Demo entry,Synthetic sample record for academic demonstration
+R00649,2025-04-05,Apple,Cedar Apple Rust,Belagavi,Moderate,81.1,Farmer report,Synthetic sample record for academic demonstration
+R01056,2025-04-06,Tomato,Septoria Leaf Spot,Chamarajanagar,High,19.0,Farmer report,Synthetic sample record for academic demonstration
+R00752,2025-04-06,Apple,Cedar Apple Rust,Dharwad,High,42.6,Demo entry,Synthetic sample record for academic demonstration
+R01176,2025-04-06,Tomato,Healthy,Hassan,Low,4.1,Field survey,Synthetic sample record for academic demonstration
+R00457,2025-04-06,Potato,Early Blight,Hassan,Low,11.1,Farmer report,Synthetic sample record for academic demonstration
+R00859,2025-04-06,Potato,Late Blight,Chamarajanagar,Low,6.6,Demo entry,Synthetic sample record for academic demonstration
+R00694,2025-04-06,Chilli,Healthy,Hassan,Low,4.8,Farmer report,Synthetic sample record for academic demonstration
+R00549,2025-04-07,Grape,Healthy,Chamarajanagar,Low,5.0,Demo entry,Synthetic sample record for academic demonstration
+R00574,2025-04-07,Potato,Healthy,Tumakuru,Low,4.2,Farmer report,Synthetic sample record for academic demonstration
+R00462,2025-04-07,Potato,Late Blight,Belagavi,Low,70.2,Farmer report,Synthetic sample record for academic demonstration
+R00238,2025-04-07,Apple,Healthy,Tumakuru,Low,4.0,Farmer report,Synthetic sample record for academic demonstration
+R00455,2025-04-07,Tomato,Late Blight,Hassan,Low,40.1,Demo entry,Synthetic sample record for academic demonstration
+R01055,2025-04-08,Apple,Apple Scab,Mandya,High,49.3,Demo entry,Synthetic sample record for academic demonstration
+R00242,2025-04-08,Chilli,Healthy,Mandya,Low,3.4,Field survey,Synthetic sample record for academic demonstration
+R00741,2025-04-08,Chilli,Leaf Curl,Hassan,Low,48.6,Farmer report,Synthetic sample record for academic demonstration
+R00489,2025-04-08,Chilli,Leaf Curl,Tumakuru,Low,45.2,Farmer report,Synthetic sample record for academic demonstration
+R00919,2025-04-08,Grape,Healthy,Belagavi,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00306,2025-04-08,Maize,Healthy,Belagavi,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00021,2025-04-09,Maize,Healthy,Dharwad,Low,5.0,Farmer report,Synthetic sample record for academic demonstration
+R01034,2025-04-09,Chilli,Leaf Curl,Hassan,Low,60.3,Field survey,Synthetic sample record for academic demonstration
+R00568,2025-04-09,Potato,Healthy,Mysuru,Low,1.0,Field survey,Synthetic sample record for academic demonstration
+R00146,2025-04-10,Chilli,Anthracnose,Mysuru,Moderate,19.3,Field survey,Synthetic sample record for academic demonstration
+R00164,2025-04-10,Potato,Healthy,Chamarajanagar,Low,4.3,Field survey,Synthetic sample record for academic demonstration
+R00350,2025-04-10,Chilli,Anthracnose,Bengaluru Rural,Moderate,41.8,Demo entry,Synthetic sample record for academic demonstration
+R00642,2025-04-11,Apple,Healthy,Mandya,Low,4.7,Demo entry,Synthetic sample record for academic demonstration
+R00458,2025-04-11,Apple,Black Rot,Hassan,Moderate,75.2,Field survey,Synthetic sample record for academic demonstration
+R00547,2025-04-11,Apple,Black Rot,Hassan,Moderate,82.3,Field survey,Synthetic sample record for academic demonstration
+R00506,2025-04-11,Grape,Leaf Blight,Hassan,High,44.7,Farmer report,Synthetic sample record for academic demonstration
+R00977,2025-04-13,Potato,Early Blight,Bengaluru Rural,Low,38.3,Field survey,Synthetic sample record for academic demonstration
+R00971,2025-04-14,Tomato,Early Blight,Tumakuru,Low,73.1,Farmer report,Synthetic sample record for academic demonstration
+R00668,2025-04-14,Chilli,Anthracnose,Dharwad,High,23.9,Demo entry,Synthetic sample record for academic demonstration
+R00461,2025-04-14,Potato,Late Blight,Mandya,High,69.8,Farmer report,Synthetic sample record for academic demonstration
+R00619,2025-04-15,Tomato,Early Blight,Bengaluru Rural,Moderate,55.0,Demo entry,Synthetic sample record for academic demonstration
+R00898,2025-04-16,Grape,Healthy,Chamarajanagar,Low,4.4,Farmer report,Synthetic sample record for academic demonstration
+R00230,2025-04-16,Grape,Leaf Blight,Mysuru,Low,27.0,Field survey,Synthetic sample record for academic demonstration
+R00740,2025-04-16,Grape,Leaf Blight,Tumakuru,Moderate,80.6,Field survey,Synthetic sample record for academic demonstration
+R00774,2025-04-16,Maize,Healthy,Bengaluru Rural,Low,2.7,Farmer report,Synthetic sample record for academic demonstration
+R00188,2025-04-16,Maize,Northern Leaf Blight,Dharwad,Moderate,31.7,Farmer report,Synthetic sample record for academic demonstration
+R00608,2025-04-17,Potato,Late Blight,Belagavi,Moderate,9.5,Farmer report,Synthetic sample record for academic demonstration
+R00384,2025-04-17,Potato,Healthy,Dharwad,Low,1.1,Field survey,Synthetic sample record for academic demonstration
+R00638,2025-04-17,Apple,Cedar Apple Rust,Chamarajanagar,Moderate,21.2,Farmer report,Synthetic sample record for academic demonstration
+R00873,2025-04-17,Maize,Gray Leaf Spot,Bengaluru Rural,Moderate,83.5,Demo entry,Synthetic sample record for academic demonstration
+R00307,2025-04-18,Potato,Late Blight,Tumakuru,Low,62.2,Farmer report,Synthetic sample record for academic demonstration
+R00429,2025-04-18,Apple,Healthy,Belagavi,Low,2.4,Demo entry,Synthetic sample record for academic demonstration
+R00818,2025-04-18,Apple,Healthy,Mandya,Low,3.0,Demo entry,Synthetic sample record for academic demonstration
+R00039,2025-04-18,Chilli,Leaf Curl,Hassan,Low,11.7,Farmer report,Synthetic sample record for academic demonstration
+R00891,2025-04-18,Potato,Healthy,Belagavi,Low,1.3,Field survey,Synthetic sample record for academic demonstration
+R01104,2025-04-18,Grape,Healthy,Dharwad,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00702,2025-04-18,Potato,Late Blight,Tumakuru,High,70.9,Farmer report,Synthetic sample record for academic demonstration
+R00685,2025-04-18,Chilli,Anthracnose,Belagavi,Moderate,62.2,Demo entry,Synthetic sample record for academic demonstration
+R00916,2025-04-18,Apple,Apple Scab,Mysuru,Low,27.7,Demo entry,Synthetic sample record for academic demonstration
+R00735,2025-04-18,Potato,Early Blight,Mandya,High,36.7,Demo entry,Synthetic sample record for academic demonstration
+R01019,2025-04-19,Apple,Healthy,Tumakuru,Low,0.0,Field survey,Synthetic sample record for academic demonstration
+R00874,2025-04-20,Potato,Early Blight,Hassan,High,25.6,Field survey,Synthetic sample record for academic demonstration
+R01041,2025-04-20,Potato,Early Blight,Bengaluru Rural,Moderate,44.4,Demo entry,Synthetic sample record for academic demonstration
+R00257,2025-04-20,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,81.0,Demo entry,Synthetic sample record for academic demonstration
+R00460,2025-04-21,Tomato,Bacterial Spot,Tumakuru,Moderate,61.8,Farmer report,Synthetic sample record for academic demonstration
+R00469,2025-04-22,Grape,Black Rot,Tumakuru,High,46.1,Field survey,Synthetic sample record for academic demonstration
+R00885,2025-04-23,Tomato,Late Blight,Dharwad,Moderate,37.6,Farmer report,Synthetic sample record for academic demonstration
+R00176,2025-04-23,Chilli,Anthracnose,Bengaluru Rural,Moderate,60.3,Field survey,Synthetic sample record for academic demonstration
+R00473,2025-04-23,Tomato,Late Blight,Tumakuru,High,65.4,Field survey,Synthetic sample record for academic demonstration
+R00201,2025-04-23,Tomato,Bacterial Spot,Belagavi,Moderate,35.3,Farmer report,Synthetic sample record for academic demonstration
+R00897,2025-04-23,Tomato,Late Blight,Chamarajanagar,Low,42.7,Demo entry,Synthetic sample record for academic demonstration
+R00237,2025-04-23,Maize,Northern Leaf Blight,Mysuru,Moderate,51.0,Demo entry,Synthetic sample record for academic demonstration
+R01139,2025-04-23,Potato,Early Blight,Tumakuru,Low,24.9,Field survey,Synthetic sample record for academic demonstration
+R00798,2025-04-24,Grape,Healthy,Chamarajanagar,Low,0.6,Demo entry,Synthetic sample record for academic demonstration
+R00032,2025-04-24,Apple,Black Rot,Belagavi,Low,32.4,Demo entry,Synthetic sample record for academic demonstration
+R00999,2025-04-24,Chilli,Anthracnose,Tumakuru,Moderate,33.4,Farmer report,Synthetic sample record for academic demonstration
+R00566,2025-04-26,Potato,Late Blight,Belagavi,Moderate,51.3,Field survey,Synthetic sample record for academic demonstration
+R00753,2025-04-26,Maize,Common Rust,Dharwad,High,76.3,Demo entry,Synthetic sample record for academic demonstration
+R00520,2025-04-26,Grape,Healthy,Mandya,Low,0.4,Field survey,Synthetic sample record for academic demonstration
+R01106,2025-04-26,Chilli,Healthy,Mandya,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R00073,2025-04-26,Chilli,Healthy,Belagavi,Low,3.4,Farmer report,Synthetic sample record for academic demonstration
+R00392,2025-04-27,Potato,Early Blight,Mysuru,Moderate,50.6,Field survey,Synthetic sample record for academic demonstration
+R00864,2025-04-27,Apple,Healthy,Belagavi,Low,2.7,Field survey,Synthetic sample record for academic demonstration
+R00804,2025-04-27,Maize,Common Rust,Bengaluru Rural,Moderate,59.8,Farmer report,Synthetic sample record for academic demonstration
+R01110,2025-04-28,Apple,Black Rot,Dharwad,Moderate,62.5,Farmer report,Synthetic sample record for academic demonstration
+R00259,2025-04-28,Grape,Leaf Blight,Belagavi,Moderate,58.4,Demo entry,Synthetic sample record for academic demonstration
+R00427,2025-04-28,Grape,Esca,Mysuru,Low,8.6,Demo entry,Synthetic sample record for academic demonstration
+R00424,2025-04-28,Potato,Late Blight,Tumakuru,Low,12.6,Field survey,Synthetic sample record for academic demonstration
+R00737,2025-04-28,Grape,Esca,Tumakuru,Moderate,58.7,Field survey,Synthetic sample record for academic demonstration
+R01164,2025-04-29,Maize,Northern Leaf Blight,Dharwad,Low,82.6,Field survey,Synthetic sample record for academic demonstration
+R00838,2025-04-29,Potato,Early Blight,Mandya,Moderate,51.5,Demo entry,Synthetic sample record for academic demonstration
+R00141,2025-04-29,Tomato,Healthy,Bengaluru Rural,Low,0.1,Demo entry,Synthetic sample record for academic demonstration
+R01086,2025-04-30,Apple,Healthy,Dharwad,Low,3.9,Demo entry,Synthetic sample record for academic demonstration
+R00494,2025-04-30,Maize,Healthy,Bengaluru Rural,Low,0.6,Demo entry,Synthetic sample record for academic demonstration
+R00151,2025-04-30,Apple,Cedar Apple Rust,Belagavi,Low,36.2,Demo entry,Synthetic sample record for academic demonstration
+R00434,2025-05-01,Potato,Healthy,Mysuru,Low,2.0,Demo entry,Synthetic sample record for academic demonstration
+R00555,2025-05-01,Grape,Esca,Mysuru,Moderate,36.8,Demo entry,Synthetic sample record for academic demonstration
+R00453,2025-05-02,Tomato,Early Blight,Mysuru,Moderate,8.5,Demo entry,Synthetic sample record for academic demonstration
+R00132,2025-05-02,Apple,Black Rot,Hassan,Low,82.0,Field survey,Synthetic sample record for academic demonstration
+R00767,2025-05-03,Maize,Healthy,Tumakuru,Low,4.2,Farmer report,Synthetic sample record for academic demonstration
+R00482,2025-05-03,Tomato,Early Blight,Tumakuru,Moderate,17.8,Field survey,Synthetic sample record for academic demonstration
+R00605,2025-05-03,Grape,Leaf Blight,Dharwad,Low,7.7,Field survey,Synthetic sample record for academic demonstration
+R00802,2025-05-03,Chilli,Anthracnose,Belagavi,Moderate,49.0,Field survey,Synthetic sample record for academic demonstration
+R01122,2025-05-04,Apple,Apple Scab,Chamarajanagar,Moderate,65.2,Demo entry,Synthetic sample record for academic demonstration
+R00715,2025-05-04,Potato,Healthy,Hassan,Low,4.4,Field survey,Synthetic sample record for academic demonstration
+R00623,2025-05-04,Potato,Late Blight,Mysuru,Moderate,83.1,Field survey,Synthetic sample record for academic demonstration
+R00426,2025-05-04,Potato,Early Blight,Mysuru,Low,25.9,Field survey,Synthetic sample record for academic demonstration
+R00653,2025-05-04,Chilli,Anthracnose,Belagavi,Moderate,85.0,Farmer report,Synthetic sample record for academic demonstration
+R00361,2025-05-04,Apple,Apple Scab,Mandya,Moderate,68.2,Field survey,Synthetic sample record for academic demonstration
+R00452,2025-05-04,Maize,Common Rust,Mysuru,Low,15.4,Field survey,Synthetic sample record for academic demonstration
+R00093,2025-05-05,Maize,Gray Leaf Spot,Belagavi,Moderate,81.1,Demo entry,Synthetic sample record for academic demonstration
+R00594,2025-05-05,Tomato,Bacterial Spot,Hassan,High,45.0,Demo entry,Synthetic sample record for academic demonstration
+R00419,2025-05-05,Tomato,Bacterial Spot,Belagavi,Moderate,42.0,Demo entry,Synthetic sample record for academic demonstration
+R00902,2025-05-05,Grape,Leaf Blight,Dharwad,High,41.0,Demo entry,Synthetic sample record for academic demonstration
+R01060,2025-05-06,Chilli,Anthracnose,Chamarajanagar,Low,58.1,Field survey,Synthetic sample record for academic demonstration
+R00223,2025-05-06,Chilli,Anthracnose,Chamarajanagar,High,5.0,Demo entry,Synthetic sample record for academic demonstration
+R00552,2025-05-06,Apple,Cedar Apple Rust,Tumakuru,Low,42.7,Demo entry,Synthetic sample record for academic demonstration
+R00496,2025-05-06,Chilli,Leaf Curl,Dharwad,Moderate,13.7,Field survey,Synthetic sample record for academic demonstration
+R00929,2025-05-06,Grape,Healthy,Dharwad,Low,1.1,Field survey,Synthetic sample record for academic demonstration
+R00956,2025-05-06,Apple,Black Rot,Mandya,Low,28.2,Demo entry,Synthetic sample record for academic demonstration
+R00682,2025-05-07,Apple,Black Rot,Hassan,Moderate,39.8,Farmer report,Synthetic sample record for academic demonstration
+R00926,2025-05-07,Potato,Healthy,Hassan,Low,4.3,Demo entry,Synthetic sample record for academic demonstration
+R00920,2025-05-07,Tomato,Late Blight,Mysuru,Moderate,23.5,Demo entry,Synthetic sample record for academic demonstration
+R01188,2025-05-07,Potato,Late Blight,Hassan,Moderate,6.6,Farmer report,Synthetic sample record for academic demonstration
+R00963,2025-05-07,Grape,Black Rot,Tumakuru,High,37.9,Field survey,Synthetic sample record for academic demonstration
+R00757,2025-05-08,Tomato,Healthy,Tumakuru,Low,1.3,Farmer report,Synthetic sample record for academic demonstration
+R00354,2025-05-08,Tomato,Septoria Leaf Spot,Mandya,Moderate,42.3,Demo entry,Synthetic sample record for academic demonstration
+R00022,2025-05-08,Apple,Apple Scab,Mandya,Low,50.3,Field survey,Synthetic sample record for academic demonstration
+R01199,2025-05-09,Maize,Common Rust,Mandya,High,70.9,Demo entry,Synthetic sample record for academic demonstration
+R00597,2025-05-09,Potato,Early Blight,Mysuru,Low,49.2,Farmer report,Synthetic sample record for academic demonstration
+R00391,2025-05-09,Grape,Healthy,Hassan,Low,0.3,Farmer report,Synthetic sample record for academic demonstration
+R01052,2025-05-09,Grape,Esca,Hassan,Moderate,37.4,Farmer report,Synthetic sample record for academic demonstration
+R01010,2025-05-10,Maize,Northern Leaf Blight,Mandya,High,76.5,Farmer report,Synthetic sample record for academic demonstration
+R00607,2025-05-10,Grape,Esca,Dharwad,Moderate,14.2,Field survey,Synthetic sample record for academic demonstration
+R00213,2025-05-11,Tomato,Septoria Leaf Spot,Mandya,High,31.0,Demo entry,Synthetic sample record for academic demonstration
+R00922,2025-05-11,Grape,Leaf Blight,Dharwad,Low,65.5,Farmer report,Synthetic sample record for academic demonstration
+R00495,2025-05-11,Tomato,Bacterial Spot,Hassan,Low,30.1,Field survey,Synthetic sample record for academic demonstration
+R00222,2025-05-11,Tomato,Late Blight,Mysuru,High,39.9,Demo entry,Synthetic sample record for academic demonstration
+R00472,2025-05-12,Apple,Cedar Apple Rust,Bengaluru Rural,Moderate,70.0,Field survey,Synthetic sample record for academic demonstration
+R00583,2025-05-12,Maize,Northern Leaf Blight,Bengaluru Rural,Low,24.6,Farmer report,Synthetic sample record for academic demonstration
+R01147,2025-05-12,Apple,Healthy,Tumakuru,Low,2.7,Field survey,Synthetic sample record for academic demonstration
+R00888,2025-05-12,Potato,Late Blight,Mandya,High,29.3,Demo entry,Synthetic sample record for academic demonstration
+R00056,2025-05-12,Chilli,Healthy,Dharwad,Low,2.8,Farmer report,Synthetic sample record for academic demonstration
+R00249,2025-05-12,Tomato,Bacterial Spot,Tumakuru,Moderate,64.3,Field survey,Synthetic sample record for academic demonstration
+R00479,2025-05-13,Potato,Healthy,Dharwad,Low,1.1,Demo entry,Synthetic sample record for academic demonstration
+R00317,2025-05-14,Grape,Black Rot,Mandya,Low,80.9,Demo entry,Synthetic sample record for academic demonstration
+R00100,2025-05-14,Maize,Healthy,Mandya,Low,2.3,Field survey,Synthetic sample record for academic demonstration
+R01098,2025-05-14,Apple,Black Rot,Hassan,Moderate,50.5,Farmer report,Synthetic sample record for academic demonstration
+R00639,2025-05-14,Apple,Healthy,Hassan,Low,3.5,Field survey,Synthetic sample record for academic demonstration
+R00848,2025-05-15,Chilli,Leaf Curl,Mandya,High,52.4,Field survey,Synthetic sample record for academic demonstration
+R00904,2025-05-15,Maize,Gray Leaf Spot,Tumakuru,Moderate,10.6,Farmer report,Synthetic sample record for academic demonstration
+R01032,2025-05-15,Tomato,Early Blight,Bengaluru Rural,Low,15.9,Field survey,Synthetic sample record for academic demonstration
+R00157,2025-05-15,Chilli,Anthracnose,Dharwad,Moderate,46.6,Field survey,Synthetic sample record for academic demonstration
+R00004,2025-05-15,Potato,Early Blight,Hassan,High,35.9,Farmer report,Synthetic sample record for academic demonstration
+R00178,2025-05-16,Maize,Northern Leaf Blight,Hassan,High,52.5,Farmer report,Synthetic sample record for academic demonstration
+R00660,2025-05-16,Potato,Early Blight,Belagavi,Low,52.9,Farmer report,Synthetic sample record for academic demonstration
+R00610,2025-05-17,Maize,Northern Leaf Blight,Hassan,Low,31.5,Demo entry,Synthetic sample record for academic demonstration
+R00725,2025-05-17,Potato,Late Blight,Hassan,Moderate,20.2,Demo entry,Synthetic sample record for academic demonstration
+R00665,2025-05-17,Maize,Common Rust,Mysuru,Moderate,59.4,Field survey,Synthetic sample record for academic demonstration
+R00212,2025-05-17,Maize,Northern Leaf Blight,Hassan,Low,76.1,Demo entry,Synthetic sample record for academic demonstration
+R00783,2025-05-18,Chilli,Leaf Curl,Chamarajanagar,Low,53.2,Farmer report,Synthetic sample record for academic demonstration
+R01127,2025-05-18,Tomato,Early Blight,Tumakuru,High,14.8,Farmer report,Synthetic sample record for academic demonstration
+R00150,2025-05-18,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,26.4,Farmer report,Synthetic sample record for academic demonstration
+R00759,2025-05-18,Apple,Black Rot,Chamarajanagar,High,83.0,Farmer report,Synthetic sample record for academic demonstration
+R00528,2025-05-19,Grape,Esca,Belagavi,Moderate,18.4,Demo entry,Synthetic sample record for academic demonstration
+R00799,2025-05-19,Chilli,Leaf Curl,Mandya,Moderate,28.1,Farmer report,Synthetic sample record for academic demonstration
+R00160,2025-05-19,Apple,Apple Scab,Mysuru,Low,6.5,Demo entry,Synthetic sample record for academic demonstration
+R00083,2025-05-19,Apple,Apple Scab,Tumakuru,High,65.2,Farmer report,Synthetic sample record for academic demonstration
+R01035,2025-05-19,Grape,Esca,Hassan,Low,46.1,Field survey,Synthetic sample record for academic demonstration
+R00247,2025-05-20,Maize,Northern Leaf Blight,Mysuru,High,16.3,Demo entry,Synthetic sample record for academic demonstration
+R00690,2025-05-20,Apple,Apple Scab,Hassan,Low,78.5,Farmer report,Synthetic sample record for academic demonstration
+R00108,2025-05-20,Potato,Late Blight,Mysuru,Moderate,81.7,Farmer report,Synthetic sample record for academic demonstration
+R00878,2025-05-20,Chilli,Healthy,Tumakuru,Low,3.4,Farmer report,Synthetic sample record for academic demonstration
+R01059,2025-05-20,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,62.5,Farmer report,Synthetic sample record for academic demonstration
+R00378,2025-05-20,Potato,Healthy,Mandya,Low,0.5,Demo entry,Synthetic sample record for academic demonstration
+R00077,2025-05-20,Chilli,Anthracnose,Mysuru,Moderate,46.6,Farmer report,Synthetic sample record for academic demonstration
+R01120,2025-05-21,Tomato,Early Blight,Mandya,Low,23.6,Demo entry,Synthetic sample record for academic demonstration
+R00882,2025-05-21,Tomato,Bacterial Spot,Tumakuru,Low,21.4,Demo entry,Synthetic sample record for academic demonstration
+R00928,2025-05-22,Grape,Black Rot,Chamarajanagar,High,34.3,Farmer report,Synthetic sample record for academic demonstration
+R00717,2025-05-22,Maize,Healthy,Bengaluru Rural,Low,3.3,Field survey,Synthetic sample record for academic demonstration
+R00297,2025-05-22,Potato,Late Blight,Mysuru,High,81.4,Field survey,Synthetic sample record for academic demonstration
+R01178,2025-05-22,Grape,Black Rot,Mandya,Low,17.0,Demo entry,Synthetic sample record for academic demonstration
+R01177,2025-05-22,Potato,Late Blight,Mysuru,High,60.9,Demo entry,Synthetic sample record for academic demonstration
+R00632,2025-05-22,Apple,Healthy,Tumakuru,Low,1.3,Demo entry,Synthetic sample record for academic demonstration
+R00484,2025-05-23,Apple,Apple Scab,Belagavi,Moderate,14.0,Demo entry,Synthetic sample record for academic demonstration
+R00490,2025-05-23,Grape,Esca,Hassan,High,51.7,Field survey,Synthetic sample record for academic demonstration
+R01131,2025-05-23,Grape,Esca,Mandya,High,65.5,Demo entry,Synthetic sample record for academic demonstration
+R00304,2025-05-23,Potato,Healthy,Mysuru,Low,2.2,Demo entry,Synthetic sample record for academic demonstration
+R00577,2025-05-23,Maize,Healthy,Bengaluru Rural,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00876,2025-05-24,Apple,Healthy,Tumakuru,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R00234,2025-05-24,Tomato,Septoria Leaf Spot,Mysuru,Low,66.7,Field survey,Synthetic sample record for academic demonstration
+R01001,2025-05-24,Potato,Healthy,Mysuru,Low,0.9,Field survey,Synthetic sample record for academic demonstration
+R00316,2025-05-24,Grape,Healthy,Mandya,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00546,2025-05-24,Grape,Leaf Blight,Tumakuru,Moderate,77.5,Farmer report,Synthetic sample record for academic demonstration
+R00560,2025-05-25,Tomato,Early Blight,Bengaluru Rural,Moderate,30.4,Farmer report,Synthetic sample record for academic demonstration
+R00998,2025-05-25,Potato,Early Blight,Mandya,Low,16.2,Field survey,Synthetic sample record for academic demonstration
+R00935,2025-05-25,Tomato,Bacterial Spot,Belagavi,Moderate,5.2,Demo entry,Synthetic sample record for academic demonstration
+R00101,2025-05-25,Maize,Gray Leaf Spot,Tumakuru,Low,30.6,Field survey,Synthetic sample record for academic demonstration
+R00996,2025-05-26,Grape,Black Rot,Mysuru,High,17.0,Farmer report,Synthetic sample record for academic demonstration
+R01003,2025-05-26,Chilli,Healthy,Hassan,Low,5.0,Farmer report,Synthetic sample record for academic demonstration
+R00148,2025-05-26,Apple,Apple Scab,Tumakuru,Moderate,8.1,Demo entry,Synthetic sample record for academic demonstration
+R00407,2025-05-26,Chilli,Leaf Curl,Tumakuru,Low,69.2,Field survey,Synthetic sample record for academic demonstration
+R00069,2025-05-26,Maize,Northern Leaf Blight,Belagavi,Moderate,42.9,Farmer report,Synthetic sample record for academic demonstration
+R00938,2025-05-28,Tomato,Bacterial Spot,Bengaluru Rural,Moderate,6.3,Farmer report,Synthetic sample record for academic demonstration
+R01195,2025-05-28,Grape,Leaf Blight,Tumakuru,Low,24.9,Demo entry,Synthetic sample record for academic demonstration
+R00240,2025-05-29,Maize,Healthy,Chamarajanagar,Low,2.2,Farmer report,Synthetic sample record for academic demonstration
+R00669,2025-05-29,Tomato,Late Blight,Hassan,Low,81.4,Field survey,Synthetic sample record for academic demonstration
+R00793,2025-05-30,Potato,Early Blight,Bengaluru Rural,Moderate,70.7,Farmer report,Synthetic sample record for academic demonstration
+R00347,2025-05-30,Tomato,Bacterial Spot,Belagavi,Moderate,32.5,Demo entry,Synthetic sample record for academic demonstration
+R01193,2025-05-30,Grape,Black Rot,Dharwad,Low,53.3,Field survey,Synthetic sample record for academic demonstration
+R00590,2025-05-30,Potato,Early Blight,Tumakuru,High,32.2,Demo entry,Synthetic sample record for academic demonstration
+R00037,2025-05-30,Apple,Cedar Apple Rust,Dharwad,Moderate,45.4,Demo entry,Synthetic sample record for academic demonstration
+R00908,2025-05-31,Maize,Common Rust,Tumakuru,Low,35.5,Field survey,Synthetic sample record for academic demonstration
+R00011,2025-06-01,Chilli,Leaf Curl,Bengaluru Rural,High,50.4,Demo entry,Synthetic sample record for academic demonstration
+R00906,2025-06-01,Chilli,Anthracnose,Mandya,Low,55.5,Farmer report,Synthetic sample record for academic demonstration
+R00120,2025-06-01,Apple,Apple Scab,Bengaluru Rural,Moderate,77.7,Farmer report,Synthetic sample record for academic demonstration
+R00074,2025-06-01,Maize,Northern Leaf Blight,Chamarajanagar,Low,69.9,Field survey,Synthetic sample record for academic demonstration
+R00731,2025-06-01,Apple,Healthy,Tumakuru,Low,1.2,Farmer report,Synthetic sample record for academic demonstration
+R00692,2025-06-01,Maize,Northern Leaf Blight,Hassan,High,52.0,Farmer report,Synthetic sample record for academic demonstration
+R00351,2025-06-02,Chilli,Anthracnose,Mandya,High,28.3,Demo entry,Synthetic sample record for academic demonstration
+R00816,2025-06-02,Potato,Early Blight,Mysuru,High,20.8,Farmer report,Synthetic sample record for academic demonstration
+R00075,2025-06-02,Chilli,Anthracnose,Tumakuru,Moderate,61.1,Demo entry,Synthetic sample record for academic demonstration
+R01091,2025-06-02,Tomato,Early Blight,Dharwad,Low,43.8,Demo entry,Synthetic sample record for academic demonstration
+R00861,2025-06-02,Maize,Common Rust,Dharwad,Moderate,77.9,Demo entry,Synthetic sample record for academic demonstration
+R00571,2025-06-02,Maize,Northern Leaf Blight,Tumakuru,Moderate,63.4,Field survey,Synthetic sample record for academic demonstration
+R00382,2025-06-02,Grape,Black Rot,Tumakuru,Moderate,69.4,Farmer report,Synthetic sample record for academic demonstration
+R01031,2025-06-02,Apple,Cedar Apple Rust,Tumakuru,Low,67.9,Demo entry,Synthetic sample record for academic demonstration
+R00295,2025-06-02,Potato,Early Blight,Bengaluru Rural,Moderate,36.3,Farmer report,Synthetic sample record for academic demonstration
+R00699,2025-06-03,Grape,Black Rot,Belagavi,Low,44.1,Field survey,Synthetic sample record for academic demonstration
+R00889,2025-06-03,Apple,Apple Scab,Hassan,Low,61.1,Field survey,Synthetic sample record for academic demonstration
+R01159,2025-06-03,Maize,Gray Leaf Spot,Chamarajanagar,High,69.1,Demo entry,Synthetic sample record for academic demonstration
+R00170,2025-06-04,Apple,Healthy,Dharwad,Low,2.0,Demo entry,Synthetic sample record for academic demonstration
+R00701,2025-06-04,Tomato,Early Blight,Bengaluru Rural,Moderate,21.9,Farmer report,Synthetic sample record for academic demonstration
+R01183,2025-06-04,Tomato,Bacterial Spot,Mysuru,Moderate,8.2,Field survey,Synthetic sample record for academic demonstration
+R00397,2025-06-04,Grape,Leaf Blight,Mysuru,Moderate,21.1,Demo entry,Synthetic sample record for academic demonstration
+R01094,2025-06-05,Potato,Late Blight,Bengaluru Rural,Low,8.6,Farmer report,Synthetic sample record for academic demonstration
+R00822,2025-06-05,Potato,Late Blight,Mandya,Moderate,20.3,Field survey,Synthetic sample record for academic demonstration
+R00745,2025-06-05,Chilli,Anthracnose,Mysuru,High,65.9,Farmer report,Synthetic sample record for academic demonstration
+R00751,2025-06-05,Apple,Cedar Apple Rust,Chamarajanagar,Moderate,83.6,Field survey,Synthetic sample record for academic demonstration
+R01170,2025-06-06,Tomato,Bacterial Spot,Hassan,Moderate,36.8,Demo entry,Synthetic sample record for academic demonstration
+R00622,2025-06-06,Apple,Cedar Apple Rust,Belagavi,Low,69.5,Field survey,Synthetic sample record for academic demonstration
+R00006,2025-06-06,Tomato,Healthy,Hassan,Low,3.7,Field survey,Synthetic sample record for academic demonstration
+R00374,2025-06-06,Potato,Healthy,Mandya,Low,4.2,Field survey,Synthetic sample record for academic demonstration
+R00308,2025-06-07,Apple,Black Rot,Mysuru,Moderate,9.2,Demo entry,Synthetic sample record for academic demonstration
+R00389,2025-06-07,Potato,Healthy,Bengaluru Rural,Low,1.1,Demo entry,Synthetic sample record for academic demonstration
+R01134,2025-06-08,Apple,Healthy,Mandya,Low,3.3,Demo entry,Synthetic sample record for academic demonstration
+R00169,2025-06-08,Potato,Late Blight,Belagavi,Moderate,66.8,Farmer report,Synthetic sample record for academic demonstration
+R00243,2025-06-08,Chilli,Anthracnose,Tumakuru,Low,27.8,Field survey,Synthetic sample record for academic demonstration
+R01102,2025-06-10,Grape,Leaf Blight,Mysuru,Moderate,35.5,Demo entry,Synthetic sample record for academic demonstration
+R00596,2025-06-10,Potato,Healthy,Dharwad,Low,0.7,Demo entry,Synthetic sample record for academic demonstration
+R00670,2025-06-10,Grape,Healthy,Hassan,Low,1.2,Farmer report,Synthetic sample record for academic demonstration
+R00180,2025-06-10,Grape,Esca,Mysuru,Moderate,15.4,Demo entry,Synthetic sample record for academic demonstration
+R01089,2025-06-12,Potato,Early Blight,Mandya,Low,17.9,Demo entry,Synthetic sample record for academic demonstration
+R00080,2025-06-12,Tomato,Healthy,Dharwad,Low,1.8,Demo entry,Synthetic sample record for academic demonstration
+R00970,2025-06-12,Apple,Healthy,Belagavi,Low,1.3,Farmer report,Synthetic sample record for academic demonstration
+R00828,2025-06-13,Potato,Late Blight,Mandya,High,60.4,Farmer report,Synthetic sample record for academic demonstration
+R00781,2025-06-13,Tomato,Septoria Leaf Spot,Hassan,Low,26.3,Field survey,Synthetic sample record for academic demonstration
+R00675,2025-06-14,Tomato,Bacterial Spot,Tumakuru,Moderate,16.0,Field survey,Synthetic sample record for academic demonstration
+R00541,2025-06-14,Potato,Late Blight,Bengaluru Rural,Low,80.1,Demo entry,Synthetic sample record for academic demonstration
+R00215,2025-06-14,Grape,Leaf Blight,Mysuru,Low,8.0,Demo entry,Synthetic sample record for academic demonstration
+R00790,2025-06-14,Tomato,Bacterial Spot,Bengaluru Rural,High,84.3,Farmer report,Synthetic sample record for academic demonstration
+R00985,2025-06-15,Apple,Apple Scab,Tumakuru,Low,41.3,Field survey,Synthetic sample record for academic demonstration
+R00325,2025-06-15,Tomato,Early Blight,Mandya,Moderate,28.7,Farmer report,Synthetic sample record for academic demonstration
+R00744,2025-06-15,Potato,Healthy,Dharwad,Low,2.1,Field survey,Synthetic sample record for academic demonstration
+R00451,2025-06-15,Apple,Healthy,Hassan,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00467,2025-06-15,Chilli,Healthy,Belagavi,Low,1.7,Demo entry,Synthetic sample record for academic demonstration
+R00045,2025-06-16,Chilli,Anthracnose,Chamarajanagar,Moderate,46.6,Field survey,Synthetic sample record for academic demonstration
+R01016,2025-06-16,Maize,Northern Leaf Blight,Belagavi,Low,65.8,Demo entry,Synthetic sample record for academic demonstration
+R00271,2025-06-16,Potato,Late Blight,Tumakuru,Low,80.9,Farmer report,Synthetic sample record for academic demonstration
+R00296,2025-06-16,Apple,Cedar Apple Rust,Dharwad,Moderate,47.0,Farmer report,Synthetic sample record for academic demonstration
+R01050,2025-06-17,Apple,Healthy,Belagavi,Low,1.4,Field survey,Synthetic sample record for academic demonstration
+R00493,2025-06-17,Grape,Black Rot,Tumakuru,Low,73.3,Field survey,Synthetic sample record for academic demonstration
+R00345,2025-06-17,Apple,Apple Scab,Belagavi,Low,79.3,Demo entry,Synthetic sample record for academic demonstration
+R00448,2025-06-18,Grape,Esca,Mysuru,Low,71.6,Farmer report,Synthetic sample record for academic demonstration
+R00850,2025-06-18,Chilli,Healthy,Chamarajanagar,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00016,2025-06-18,Maize,Gray Leaf Spot,Mandya,High,41.2,Field survey,Synthetic sample record for academic demonstration
+R00854,2025-06-18,Maize,Healthy,Hassan,Low,2.2,Demo entry,Synthetic sample record for academic demonstration
+R00893,2025-06-18,Grape,Healthy,Tumakuru,Low,4.6,Demo entry,Synthetic sample record for academic demonstration
+R00285,2025-06-19,Grape,Healthy,Belagavi,Low,2.6,Field survey,Synthetic sample record for academic demonstration
+R00088,2025-06-19,Potato,Healthy,Chamarajanagar,Low,0.5,Field survey,Synthetic sample record for academic demonstration
+R00519,2025-06-20,Apple,Cedar Apple Rust,Tumakuru,Low,64.8,Farmer report,Synthetic sample record for academic demonstration
+R00743,2025-06-20,Grape,Leaf Blight,Dharwad,Low,84.4,Farmer report,Synthetic sample record for academic demonstration
+R00640,2025-06-20,Apple,Black Rot,Mysuru,Moderate,69.2,Demo entry,Synthetic sample record for academic demonstration
+R00778,2025-06-21,Chilli,Leaf Curl,Chamarajanagar,Low,63.8,Demo entry,Synthetic sample record for academic demonstration
+R00628,2025-06-21,Chilli,Anthracnose,Tumakuru,High,29.3,Farmer report,Synthetic sample record for academic demonstration
+R00192,2025-06-23,Maize,Healthy,Mandya,Low,4.1,Farmer report,Synthetic sample record for academic demonstration
+R00584,2025-06-23,Maize,Northern Leaf Blight,Mandya,High,30.3,Field survey,Synthetic sample record for academic demonstration
+R00443,2025-06-23,Grape,Esca,Hassan,Moderate,56.5,Demo entry,Synthetic sample record for academic demonstration
+R00565,2025-06-23,Grape,Black Rot,Mysuru,Low,9.7,Field survey,Synthetic sample record for academic demonstration
+R00284,2025-06-24,Maize,Healthy,Dharwad,Low,3.2,Field survey,Synthetic sample record for academic demonstration
+R00028,2025-06-24,Potato,Early Blight,Bengaluru Rural,High,48.4,Farmer report,Synthetic sample record for academic demonstration
+R00845,2025-06-24,Apple,Apple Scab,Dharwad,High,31.5,Farmer report,Synthetic sample record for academic demonstration
+R00593,2025-06-24,Potato,Healthy,Mandya,Low,2.4,Farmer report,Synthetic sample record for academic demonstration
+R00946,2025-06-25,Potato,Late Blight,Belagavi,High,43.3,Farmer report,Synthetic sample record for academic demonstration
+R00573,2025-06-25,Apple,Black Rot,Chamarajanagar,Low,18.5,Farmer report,Synthetic sample record for academic demonstration
+R00658,2025-06-25,Apple,Black Rot,Tumakuru,Low,71.4,Farmer report,Synthetic sample record for academic demonstration
+R00599,2025-06-25,Apple,Black Rot,Dharwad,Moderate,22.5,Field survey,Synthetic sample record for academic demonstration
+R00253,2025-06-25,Tomato,Healthy,Belagavi,Low,0.7,Demo entry,Synthetic sample record for academic demonstration
+R00871,2025-06-25,Maize,Healthy,Chamarajanagar,Low,0.5,Farmer report,Synthetic sample record for academic demonstration
+R00957,2025-06-26,Potato,Healthy,Mandya,Low,0.1,Demo entry,Synthetic sample record for academic demonstration
+R00013,2025-06-27,Maize,Gray Leaf Spot,Belagavi,Moderate,19.3,Demo entry,Synthetic sample record for academic demonstration
+R00264,2025-06-27,Tomato,Healthy,Tumakuru,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00507,2025-06-27,Apple,Cedar Apple Rust,Belagavi,High,68.1,Demo entry,Synthetic sample record for academic demonstration
+R00275,2025-06-27,Chilli,Healthy,Hassan,Low,0.2,Demo entry,Synthetic sample record for academic demonstration
+R00765,2025-06-27,Potato,Late Blight,Belagavi,Low,19.7,Field survey,Synthetic sample record for academic demonstration
+R00662,2025-06-28,Tomato,Late Blight,Mysuru,High,35.7,Farmer report,Synthetic sample record for academic demonstration
+R00303,2025-06-28,Chilli,Anthracnose,Mandya,Moderate,22.4,Farmer report,Synthetic sample record for academic demonstration
+R00036,2025-06-28,Potato,Healthy,Hassan,Low,1.7,Demo entry,Synthetic sample record for academic demonstration
+R00532,2025-06-28,Chilli,Leaf Curl,Bengaluru Rural,High,58.7,Farmer report,Synthetic sample record for academic demonstration
+R01007,2025-06-29,Apple,Black Rot,Mysuru,Low,38.8,Demo entry,Synthetic sample record for academic demonstration
+R01128,2025-06-29,Chilli,Healthy,Tumakuru,Low,2.6,Field survey,Synthetic sample record for academic demonstration
+R01011,2025-06-29,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,40.7,Field survey,Synthetic sample record for academic demonstration
+R00953,2025-06-30,Potato,Healthy,Mandya,Low,4.5,Demo entry,Synthetic sample record for academic demonstration
+R00729,2025-06-30,Maize,Northern Leaf Blight,Tumakuru,High,59.0,Field survey,Synthetic sample record for academic demonstration
+R00544,2025-06-30,Tomato,Bacterial Spot,Tumakuru,Moderate,22.9,Demo entry,Synthetic sample record for academic demonstration
+R00973,2025-07-01,Apple,Cedar Apple Rust,Mandya,Low,72.9,Farmer report,Synthetic sample record for academic demonstration
+R00719,2025-07-01,Apple,Apple Scab,Belagavi,High,69.4,Field survey,Synthetic sample record for academic demonstration
+R00369,2025-07-01,Apple,Black Rot,Mysuru,Moderate,84.7,Demo entry,Synthetic sample record for academic demonstration
+R00197,2025-07-01,Grape,Healthy,Mandya,Low,1.7,Demo entry,Synthetic sample record for academic demonstration
+R00786,2025-07-01,Potato,Healthy,Tumakuru,Low,3.5,Demo entry,Synthetic sample record for academic demonstration
+R00575,2025-07-01,Apple,Healthy,Tumakuru,Low,2.8,Farmer report,Synthetic sample record for academic demonstration
+R00159,2025-07-01,Chilli,Healthy,Chamarajanagar,Low,1.3,Farmer report,Synthetic sample record for academic demonstration
+R00890,2025-07-02,Chilli,Healthy,Mandya,Low,0.5,Farmer report,Synthetic sample record for academic demonstration
+R00323,2025-07-02,Apple,Cedar Apple Rust,Dharwad,Low,43.8,Field survey,Synthetic sample record for academic demonstration
+R01024,2025-07-03,Apple,Healthy,Hassan,Low,4.7,Farmer report,Synthetic sample record for academic demonstration
+R00229,2025-07-03,Grape,Esca,Bengaluru Rural,Moderate,29.8,Farmer report,Synthetic sample record for academic demonstration
+R00405,2025-07-03,Grape,Esca,Tumakuru,Low,74.2,Demo entry,Synthetic sample record for academic demonstration
+R00614,2025-07-03,Maize,Healthy,Mandya,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R01141,2025-07-03,Potato,Late Blight,Mysuru,Moderate,42.7,Farmer report,Synthetic sample record for academic demonstration
+R00988,2025-07-03,Grape,Healthy,Tumakuru,Low,0.1,Farmer report,Synthetic sample record for academic demonstration
+R00290,2025-07-03,Grape,Esca,Belagavi,Low,23.7,Demo entry,Synthetic sample record for academic demonstration
+R00868,2025-07-03,Tomato,Septoria Leaf Spot,Bengaluru Rural,Moderate,18.2,Field survey,Synthetic sample record for academic demonstration
+R00883,2025-07-05,Apple,Cedar Apple Rust,Tumakuru,Moderate,29.2,Demo entry,Synthetic sample record for academic demonstration
+R00949,2025-07-05,Chilli,Anthracnose,Bengaluru Rural,Moderate,67.3,Field survey,Synthetic sample record for academic demonstration
+R00177,2025-07-06,Potato,Healthy,Chamarajanagar,Low,4.8,Field survey,Synthetic sample record for academic demonstration
+R00288,2025-07-06,Potato,Early Blight,Mandya,Low,50.1,Field survey,Synthetic sample record for academic demonstration
+R00292,2025-07-06,Potato,Healthy,Mysuru,Low,2.1,Demo entry,Synthetic sample record for academic demonstration
+R00137,2025-07-06,Potato,Late Blight,Hassan,Low,80.6,Farmer report,Synthetic sample record for academic demonstration
+R00266,2025-07-06,Tomato,Septoria Leaf Spot,Hassan,Low,24.1,Field survey,Synthetic sample record for academic demonstration
+R00289,2025-07-07,Maize,Healthy,Tumakuru,Low,2.2,Demo entry,Synthetic sample record for academic demonstration
+R00026,2025-07-07,Chilli,Healthy,Mandya,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00140,2025-07-07,Grape,Black Rot,Bengaluru Rural,Low,20.9,Demo entry,Synthetic sample record for academic demonstration
+R00054,2025-07-07,Potato,Healthy,Dharwad,Low,1.5,Farmer report,Synthetic sample record for academic demonstration
+R00721,2025-07-08,Grape,Esca,Mandya,Moderate,41.0,Farmer report,Synthetic sample record for academic demonstration
+R00250,2025-07-08,Grape,Esca,Hassan,Moderate,14.5,Field survey,Synthetic sample record for academic demonstration
+R00440,2025-07-08,Chilli,Healthy,Mysuru,Low,0.4,Farmer report,Synthetic sample record for academic demonstration
+R01174,2025-07-08,Tomato,Septoria Leaf Spot,Chamarajanagar,Low,57.7,Field survey,Synthetic sample record for academic demonstration
+R01087,2025-07-08,Maize,Gray Leaf Spot,Bengaluru Rural,Low,68.2,Demo entry,Synthetic sample record for academic demonstration
+R01133,2025-07-09,Tomato,Septoria Leaf Spot,Belagavi,Moderate,13.5,Field survey,Synthetic sample record for academic demonstration
+R00835,2025-07-09,Grape,Esca,Chamarajanagar,Moderate,24.0,Farmer report,Synthetic sample record for academic demonstration
+R00811,2025-07-09,Chilli,Healthy,Bengaluru Rural,Low,2.3,Demo entry,Synthetic sample record for academic demonstration
+R00626,2025-07-10,Chilli,Leaf Curl,Hassan,Moderate,13.3,Demo entry,Synthetic sample record for academic demonstration
+R00110,2025-07-10,Grape,Esca,Bengaluru Rural,Moderate,12.6,Farmer report,Synthetic sample record for academic demonstration
+R00198,2025-07-10,Grape,Healthy,Hassan,Low,4.9,Field survey,Synthetic sample record for academic demonstration
+R00965,2025-07-10,Potato,Early Blight,Chamarajanagar,Moderate,42.7,Demo entry,Synthetic sample record for academic demonstration
+R00681,2025-07-10,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,73.1,Farmer report,Synthetic sample record for academic demonstration
+R00772,2025-07-10,Grape,Healthy,Mandya,Low,4.7,Field survey,Synthetic sample record for academic demonstration
+R00944,2025-07-11,Potato,Healthy,Belagavi,Low,2.0,Field survey,Synthetic sample record for academic demonstration
+R00789,2025-07-11,Chilli,Leaf Curl,Hassan,High,83.4,Farmer report,Synthetic sample record for academic demonstration
+R00517,2025-07-11,Tomato,Early Blight,Chamarajanagar,Moderate,52.7,Demo entry,Synthetic sample record for academic demonstration
+R00712,2025-07-11,Maize,Northern Leaf Blight,Hassan,Moderate,43.6,Farmer report,Synthetic sample record for academic demonstration
+R00464,2025-07-11,Tomato,Bacterial Spot,Belagavi,Moderate,11.4,Demo entry,Synthetic sample record for academic demonstration
+R00842,2025-07-12,Tomato,Early Blight,Mandya,Moderate,61.4,Demo entry,Synthetic sample record for academic demonstration
+R00061,2025-07-12,Potato,Early Blight,Dharwad,High,41.5,Farmer report,Synthetic sample record for academic demonstration
+R00158,2025-07-12,Tomato,Septoria Leaf Spot,Hassan,Moderate,46.4,Field survey,Synthetic sample record for academic demonstration
+R00381,2025-07-13,Tomato,Early Blight,Bengaluru Rural,Moderate,35.3,Farmer report,Synthetic sample record for academic demonstration
+R00631,2025-07-13,Apple,Cedar Apple Rust,Belagavi,Moderate,59.8,Field survey,Synthetic sample record for academic demonstration
+R00723,2025-07-14,Apple,Apple Scab,Belagavi,Moderate,61.0,Demo entry,Synthetic sample record for academic demonstration
+R01115,2025-07-15,Chilli,Healthy,Bengaluru Rural,Low,3.5,Demo entry,Synthetic sample record for academic demonstration
+R00992,2025-07-16,Tomato,Late Blight,Belagavi,Moderate,17.3,Field survey,Synthetic sample record for academic demonstration
+R01135,2025-07-16,Potato,Early Blight,Chamarajanagar,Moderate,58.6,Demo entry,Synthetic sample record for academic demonstration
+R00909,2025-07-16,Maize,Common Rust,Dharwad,Moderate,8.2,Demo entry,Synthetic sample record for academic demonstration
+R00654,2025-07-16,Potato,Early Blight,Chamarajanagar,High,19.9,Demo entry,Synthetic sample record for academic demonstration
+R00465,2025-07-17,Apple,Apple Scab,Bengaluru Rural,Low,43.9,Field survey,Synthetic sample record for academic demonstration
+R00903,2025-07-17,Tomato,Bacterial Spot,Hassan,High,29.6,Farmer report,Synthetic sample record for academic demonstration
+R00749,2025-07-18,Potato,Early Blight,Tumakuru,Moderate,34.6,Farmer report,Synthetic sample record for academic demonstration
+R00932,2025-07-18,Apple,Cedar Apple Rust,Belagavi,Moderate,78.7,Field survey,Synthetic sample record for academic demonstration
+R00613,2025-07-18,Grape,Healthy,Chamarajanagar,Low,3.3,Field survey,Synthetic sample record for academic demonstration
+R00119,2025-07-18,Grape,Esca,Chamarajanagar,Moderate,8.7,Farmer report,Synthetic sample record for academic demonstration
+R00896,2025-07-18,Maize,Common Rust,Mandya,Moderate,26.0,Field survey,Synthetic sample record for academic demonstration
+R00817,2025-07-19,Grape,Esca,Mysuru,Moderate,43.4,Farmer report,Synthetic sample record for academic demonstration
+R00806,2025-07-19,Apple,Apple Scab,Belagavi,Low,25.7,Field survey,Synthetic sample record for academic demonstration
+R01079,2025-07-19,Maize,Gray Leaf Spot,Tumakuru,Moderate,19.3,Field survey,Synthetic sample record for academic demonstration
+R00700,2025-07-19,Tomato,Late Blight,Mandya,Moderate,63.4,Field survey,Synthetic sample record for academic demonstration
+R01070,2025-07-19,Chilli,Leaf Curl,Bengaluru Rural,Moderate,17.8,Farmer report,Synthetic sample record for academic demonstration
+R00038,2025-07-20,Potato,Healthy,Mandya,Low,0.1,Demo entry,Synthetic sample record for academic demonstration
+R00058,2025-07-20,Apple,Apple Scab,Tumakuru,Low,24.9,Farmer report,Synthetic sample record for academic demonstration
+R01072,2025-07-20,Potato,Early Blight,Chamarajanagar,Moderate,34.5,Demo entry,Synthetic sample record for academic demonstration
+R01156,2025-07-20,Apple,Black Rot,Tumakuru,Moderate,18.1,Field survey,Synthetic sample record for academic demonstration
+R00463,2025-07-21,Maize,Common Rust,Mandya,Moderate,72.6,Farmer report,Synthetic sample record for academic demonstration
+R01078,2025-07-21,Chilli,Anthracnose,Dharwad,High,32.3,Farmer report,Synthetic sample record for academic demonstration
+R01125,2025-07-22,Tomato,Septoria Leaf Spot,Chamarajanagar,High,24.4,Farmer report,Synthetic sample record for academic demonstration
+R00648,2025-07-22,Maize,Common Rust,Chamarajanagar,Moderate,25.5,Farmer report,Synthetic sample record for academic demonstration
+R00931,2025-07-22,Tomato,Septoria Leaf Spot,Chamarajanagar,Low,36.8,Farmer report,Synthetic sample record for academic demonstration
+R00246,2025-07-22,Chilli,Leaf Curl,Belagavi,Low,9.8,Farmer report,Synthetic sample record for academic demonstration
+R00315,2025-07-22,Tomato,Healthy,Tumakuru,Low,0.2,Farmer report,Synthetic sample record for academic demonstration
+R00606,2025-07-23,Grape,Healthy,Tumakuru,Low,1.5,Demo entry,Synthetic sample record for academic demonstration
+R00123,2025-07-23,Grape,Esca,Mysuru,Moderate,76.9,Farmer report,Synthetic sample record for academic demonstration
+R00872,2025-07-23,Apple,Apple Scab,Chamarajanagar,High,37.3,Demo entry,Synthetic sample record for academic demonstration
+R01114,2025-07-23,Potato,Early Blight,Tumakuru,Low,70.0,Field survey,Synthetic sample record for academic demonstration
+R01029,2025-07-24,Potato,Early Blight,Belagavi,Moderate,34.2,Farmer report,Synthetic sample record for academic demonstration
+R00879,2025-07-24,Potato,Healthy,Bengaluru Rural,Low,3.4,Farmer report,Synthetic sample record for academic demonstration
+R00047,2025-07-24,Potato,Early Blight,Hassan,Moderate,41.2,Farmer report,Synthetic sample record for academic demonstration
+R00796,2025-07-24,Grape,Healthy,Bengaluru Rural,Low,3.5,Field survey,Synthetic sample record for academic demonstration
+R01129,2025-07-25,Grape,Healthy,Hassan,Low,2.6,Demo entry,Synthetic sample record for academic demonstration
+R00055,2025-07-25,Chilli,Leaf Curl,Mysuru,Low,5.8,Field survey,Synthetic sample record for academic demonstration
+R01046,2025-07-25,Apple,Cedar Apple Rust,Chamarajanagar,High,50.0,Demo entry,Synthetic sample record for academic demonstration
+R00236,2025-07-26,Potato,Late Blight,Tumakuru,Moderate,55.0,Demo entry,Synthetic sample record for academic demonstration
+R00276,2025-07-26,Grape,Leaf Blight,Mysuru,Moderate,51.4,Farmer report,Synthetic sample record for academic demonstration
+R00502,2025-07-26,Tomato,Healthy,Chamarajanagar,Low,5.0,Demo entry,Synthetic sample record for academic demonstration
+R01168,2025-07-27,Chilli,Anthracnose,Mandya,Moderate,8.8,Demo entry,Synthetic sample record for academic demonstration
+R00644,2025-07-27,Tomato,Late Blight,Chamarajanagar,High,8.9,Farmer report,Synthetic sample record for academic demonstration
+R00220,2025-07-27,Apple,Cedar Apple Rust,Mysuru,Moderate,34.3,Farmer report,Synthetic sample record for academic demonstration
+R01025,2025-07-28,Apple,Healthy,Mysuru,Low,4.6,Field survey,Synthetic sample record for academic demonstration
+R00332,2025-07-28,Grape,Esca,Chamarajanagar,Moderate,67.4,Demo entry,Synthetic sample record for academic demonstration
+R00348,2025-07-28,Grape,Healthy,Dharwad,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00933,2025-07-28,Potato,Late Blight,Chamarajanagar,Moderate,25.8,Demo entry,Synthetic sample record for academic demonstration
+R01093,2025-07-29,Tomato,Septoria Leaf Spot,Belagavi,Low,34.5,Demo entry,Synthetic sample record for academic demonstration
+R00553,2025-07-29,Maize,Northern Leaf Blight,Belagavi,Low,74.2,Field survey,Synthetic sample record for academic demonstration
+R00839,2025-07-29,Grape,Black Rot,Bengaluru Rural,High,78.5,Farmer report,Synthetic sample record for academic demonstration
+R00894,2025-07-29,Grape,Esca,Chamarajanagar,Moderate,14.3,Farmer report,Synthetic sample record for academic demonstration
+R00015,2025-07-30,Chilli,Anthracnose,Hassan,Moderate,50.4,Demo entry,Synthetic sample record for academic demonstration
+R00447,2025-07-30,Grape,Leaf Blight,Dharwad,Moderate,18.2,Farmer report,Synthetic sample record for academic demonstration
+R00810,2025-07-30,Maize,Common Rust,Mandya,Moderate,56.6,Field survey,Synthetic sample record for academic demonstration
+R01085,2025-07-31,Apple,Cedar Apple Rust,Mandya,Moderate,73.3,Farmer report,Synthetic sample record for academic demonstration
+R01058,2025-08-01,Potato,Early Blight,Tumakuru,Moderate,57.4,Demo entry,Synthetic sample record for academic demonstration
+R00535,2025-08-01,Tomato,Early Blight,Bengaluru Rural,Moderate,36.4,Farmer report,Synthetic sample record for academic demonstration
+R01123,2025-08-02,Potato,Late Blight,Dharwad,High,20.8,Farmer report,Synthetic sample record for academic demonstration
+R01071,2025-08-02,Apple,Black Rot,Belagavi,Low,83.6,Farmer report,Synthetic sample record for academic demonstration
+R00907,2025-08-02,Chilli,Leaf Curl,Chamarajanagar,Low,20.7,Demo entry,Synthetic sample record for academic demonstration
+R00280,2025-08-03,Chilli,Anthracnose,Bengaluru Rural,Low,8.9,Demo entry,Synthetic sample record for academic demonstration
+R00398,2025-08-03,Grape,Black Rot,Chamarajanagar,Moderate,54.2,Field survey,Synthetic sample record for academic demonstration
+R00128,2025-08-03,Maize,Common Rust,Tumakuru,Moderate,35.8,Demo entry,Synthetic sample record for academic demonstration
+R00962,2025-08-04,Tomato,Bacterial Spot,Mandya,Moderate,83.2,Farmer report,Synthetic sample record for academic demonstration
+R00637,2025-08-04,Grape,Esca,Dharwad,Moderate,13.9,Field survey,Synthetic sample record for academic demonstration
+R01092,2025-08-04,Potato,Healthy,Tumakuru,Low,4.8,Field survey,Synthetic sample record for academic demonstration
+R00342,2025-08-05,Apple,Black Rot,Tumakuru,Moderate,83.2,Field survey,Synthetic sample record for academic demonstration
+R00450,2025-08-05,Maize,Northern Leaf Blight,Mysuru,Low,31.3,Field survey,Synthetic sample record for academic demonstration
+R01172,2025-08-05,Maize,Gray Leaf Spot,Dharwad,High,51.0,Farmer report,Synthetic sample record for academic demonstration
+R00050,2025-08-05,Grape,Healthy,Belagavi,Low,3.7,Farmer report,Synthetic sample record for academic demonstration
+R01173,2025-08-06,Tomato,Bacterial Spot,Mandya,Moderate,22.0,Demo entry,Synthetic sample record for academic demonstration
+R00742,2025-08-06,Tomato,Early Blight,Mandya,High,79.5,Demo entry,Synthetic sample record for academic demonstration
+R00233,2025-08-07,Grape,Black Rot,Belagavi,Low,35.2,Field survey,Synthetic sample record for academic demonstration
+R00187,2025-08-08,Apple,Apple Scab,Hassan,Moderate,45.2,Field survey,Synthetic sample record for academic demonstration
+R00844,2025-08-08,Grape,Leaf Blight,Mandya,High,24.0,Farmer report,Synthetic sample record for academic demonstration
+R00145,2025-08-08,Potato,Early Blight,Hassan,Moderate,67.1,Field survey,Synthetic sample record for academic demonstration
+R00214,2025-08-08,Grape,Healthy,Tumakuru,Low,1.3,Field survey,Synthetic sample record for academic demonstration
+R01148,2025-08-08,Chilli,Healthy,Belagavi,Low,3.1,Field survey,Synthetic sample record for academic demonstration
+R00193,2025-08-09,Grape,Esca,Hassan,High,74.4,Demo entry,Synthetic sample record for academic demonstration
+R00666,2025-08-09,Apple,Healthy,Mysuru,Low,2.3,Field survey,Synthetic sample record for academic demonstration
+R00656,2025-08-10,Apple,Healthy,Dharwad,Low,3.9,Farmer report,Synthetic sample record for academic demonstration
+R00404,2025-08-10,Potato,Late Blight,Dharwad,Moderate,51.7,Field survey,Synthetic sample record for academic demonstration
+R00109,2025-08-10,Grape,Healthy,Chamarajanagar,Low,2.9,Farmer report,Synthetic sample record for academic demonstration
+R01117,2025-08-11,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,38.1,Field survey,Synthetic sample record for academic demonstration
+R00991,2025-08-11,Grape,Esca,Tumakuru,Moderate,32.8,Field survey,Synthetic sample record for academic demonstration
+R00755,2025-08-11,Chilli,Healthy,Dharwad,Low,3.1,Farmer report,Synthetic sample record for academic demonstration
+R01189,2025-08-12,Apple,Apple Scab,Tumakuru,Low,29.0,Field survey,Synthetic sample record for academic demonstration
+R00524,2025-08-12,Potato,Healthy,Hassan,Low,1.5,Demo entry,Synthetic sample record for academic demonstration
+R00561,2025-08-12,Tomato,Early Blight,Mandya,Moderate,31.3,Farmer report,Synthetic sample record for academic demonstration
+R01037,2025-08-12,Chilli,Leaf Curl,Belagavi,High,66.1,Demo entry,Synthetic sample record for academic demonstration
+R00217,2025-08-14,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,60.8,Demo entry,Synthetic sample record for academic demonstration
+R00034,2025-08-14,Maize,Gray Leaf Spot,Belagavi,Moderate,62.3,Demo entry,Synthetic sample record for academic demonstration
+R00252,2025-08-14,Tomato,Bacterial Spot,Bengaluru Rural,Low,11.6,Demo entry,Synthetic sample record for academic demonstration
+R00942,2025-08-15,Grape,Black Rot,Mandya,High,59.9,Farmer report,Synthetic sample record for academic demonstration
+R00052,2025-08-15,Potato,Late Blight,Chamarajanagar,Moderate,40.3,Field survey,Synthetic sample record for academic demonstration
+R00263,2025-08-15,Apple,Healthy,Mysuru,Low,4.7,Field survey,Synthetic sample record for academic demonstration
+R00107,2025-08-15,Chilli,Leaf Curl,Mandya,Moderate,5.2,Farmer report,Synthetic sample record for academic demonstration
+R00122,2025-08-16,Chilli,Healthy,Hassan,Low,1.3,Farmer report,Synthetic sample record for academic demonstration
+R00104,2025-08-16,Apple,Healthy,Bengaluru Rural,Low,3.0,Field survey,Synthetic sample record for academic demonstration
+R00551,2025-08-17,Grape,Black Rot,Mandya,Low,7.4,Field survey,Synthetic sample record for academic demonstration
+R00196,2025-08-17,Chilli,Leaf Curl,Hassan,Moderate,27.2,Farmer report,Synthetic sample record for academic demonstration
+R00409,2025-08-17,Potato,Healthy,Mysuru,Low,2.6,Demo entry,Synthetic sample record for academic demonstration
+R01051,2025-08-17,Chilli,Anthracnose,Mysuru,High,50.9,Demo entry,Synthetic sample record for academic demonstration
+R00580,2025-08-18,Chilli,Anthracnose,Chamarajanagar,Moderate,12.5,Farmer report,Synthetic sample record for academic demonstration
+R00925,2025-08-18,Apple,Healthy,Mandya,Low,3.5,Field survey,Synthetic sample record for academic demonstration
+R00510,2025-08-18,Apple,Healthy,Belagavi,Low,0.4,Farmer report,Synthetic sample record for academic demonstration
+R01144,2025-08-18,Grape,Black Rot,Belagavi,High,53.6,Demo entry,Synthetic sample record for academic demonstration
+R00425,2025-08-19,Potato,Late Blight,Dharwad,Moderate,56.8,Field survey,Synthetic sample record for academic demonstration
+R00149,2025-08-19,Grape,Leaf Blight,Tumakuru,Moderate,19.1,Demo entry,Synthetic sample record for academic demonstration
+R00117,2025-08-19,Grape,Black Rot,Chamarajanagar,Moderate,22.5,Field survey,Synthetic sample record for academic demonstration
+R00338,2025-08-19,Apple,Cedar Apple Rust,Chamarajanagar,Moderate,67.9,Field survey,Synthetic sample record for academic demonstration
+R00046,2025-08-19,Grape,Healthy,Chamarajanagar,Low,1.2,Farmer report,Synthetic sample record for academic demonstration
+R00396,2025-08-20,Chilli,Leaf Curl,Tumakuru,Moderate,15.6,Farmer report,Synthetic sample record for academic demonstration
+R00202,2025-08-20,Tomato,Bacterial Spot,Mysuru,Low,58.8,Field survey,Synthetic sample record for academic demonstration
+R00827,2025-08-20,Chilli,Healthy,Mandya,Low,0.0,Demo entry,Synthetic sample record for academic demonstration
+R00241,2025-08-20,Potato,Healthy,Dharwad,Low,3.8,Farmer report,Synthetic sample record for academic demonstration
+R00435,2025-08-20,Potato,Late Blight,Mandya,Low,18.2,Demo entry,Synthetic sample record for academic demonstration
+R00763,2025-08-20,Tomato,Bacterial Spot,Bengaluru Rural,High,46.2,Field survey,Synthetic sample record for academic demonstration
+R00554,2025-08-21,Chilli,Healthy,Chamarajanagar,Low,2.6,Field survey,Synthetic sample record for academic demonstration
+R00858,2025-08-21,Potato,Late Blight,Mandya,Moderate,33.6,Farmer report,Synthetic sample record for academic demonstration
+R00420,2025-08-21,Apple,Black Rot,Chamarajanagar,High,60.1,Field survey,Synthetic sample record for academic demonstration
+R00766,2025-08-22,Grape,Black Rot,Tumakuru,Low,33.7,Demo entry,Synthetic sample record for academic demonstration
+R00558,2025-08-22,Maize,Gray Leaf Spot,Mandya,Low,11.9,Demo entry,Synthetic sample record for academic demonstration
+R01022,2025-08-22,Tomato,Bacterial Spot,Mysuru,Low,5.1,Farmer report,Synthetic sample record for academic demonstration
+R00334,2025-08-22,Grape,Healthy,Hassan,Low,1.1,Demo entry,Synthetic sample record for academic demonstration
+R00459,2025-08-23,Apple,Black Rot,Chamarajanagar,Low,71.0,Farmer report,Synthetic sample record for academic demonstration
+R00651,2025-08-23,Potato,Late Blight,Dharwad,Moderate,31.1,Demo entry,Synthetic sample record for academic demonstration
+R00203,2025-08-23,Tomato,Early Blight,Chamarajanagar,High,62.5,Farmer report,Synthetic sample record for academic demonstration
+R01076,2025-08-23,Chilli,Healthy,Dharwad,Low,4.5,Farmer report,Synthetic sample record for academic demonstration
+R00945,2025-08-23,Maize,Healthy,Mandya,Low,2.5,Farmer report,Synthetic sample record for academic demonstration
+R00630,2025-08-24,Maize,Common Rust,Dharwad,Moderate,63.4,Field survey,Synthetic sample record for academic demonstration
+R00664,2025-08-24,Chilli,Healthy,Chamarajanagar,Low,1.2,Demo entry,Synthetic sample record for academic demonstration
+R01021,2025-08-24,Grape,Healthy,Hassan,Low,2.8,Farmer report,Synthetic sample record for academic demonstration
+R00655,2025-08-24,Chilli,Healthy,Mandya,Low,3.0,Field survey,Synthetic sample record for academic demonstration
+R00611,2025-08-24,Potato,Healthy,Dharwad,Low,1.1,Demo entry,Synthetic sample record for academic demonstration
+R00556,2025-08-25,Grape,Leaf Blight,Dharwad,Low,55.8,Field survey,Synthetic sample record for academic demonstration
+R01054,2025-08-25,Maize,Gray Leaf Spot,Hassan,Moderate,41.0,Field survey,Synthetic sample record for academic demonstration
+R00044,2025-08-25,Potato,Late Blight,Belagavi,Moderate,38.2,Demo entry,Synthetic sample record for academic demonstration
+R01006,2025-08-25,Tomato,Late Blight,Mandya,Moderate,26.4,Farmer report,Synthetic sample record for academic demonstration
+R01157,2025-08-26,Chilli,Leaf Curl,Bengaluru Rural,Moderate,72.0,Farmer report,Synthetic sample record for academic demonstration
+R00974,2025-08-27,Tomato,Late Blight,Chamarajanagar,Moderate,30.5,Field survey,Synthetic sample record for academic demonstration
+R00412,2025-08-27,Tomato,Bacterial Spot,Tumakuru,Low,30.0,Farmer report,Synthetic sample record for academic demonstration
+R01027,2025-08-28,Chilli,Anthracnose,Hassan,Moderate,27.8,Demo entry,Synthetic sample record for academic demonstration
+R01119,2025-08-28,Chilli,Leaf Curl,Bengaluru Rural,Moderate,20.0,Farmer report,Synthetic sample record for academic demonstration
+R00825,2025-08-28,Maize,Gray Leaf Spot,Mandya,Low,65.2,Farmer report,Synthetic sample record for academic demonstration
+R00153,2025-08-29,Tomato,Bacterial Spot,Chamarajanagar,Moderate,22.3,Farmer report,Synthetic sample record for academic demonstration
+R00980,2025-08-29,Grape,Esca,Belagavi,Low,33.4,Farmer report,Synthetic sample record for academic demonstration
+R00617,2025-08-29,Grape,Esca,Mandya,Moderate,56.4,Farmer report,Synthetic sample record for academic demonstration
+R00200,2025-08-29,Grape,Leaf Blight,Tumakuru,Moderate,22.7,Field survey,Synthetic sample record for academic demonstration
+R00068,2025-08-30,Grape,Black Rot,Bengaluru Rural,Moderate,17.5,Demo entry,Synthetic sample record for academic demonstration
+R00867,2025-08-30,Potato,Late Blight,Chamarajanagar,Low,27.5,Farmer report,Synthetic sample record for academic demonstration
+R01116,2025-08-30,Chilli,Anthracnose,Hassan,Low,31.9,Farmer report,Synthetic sample record for academic demonstration
+R00471,2025-08-30,Apple,Black Rot,Dharwad,Moderate,9.7,Field survey,Synthetic sample record for academic demonstration
+R00057,2025-08-31,Maize,Northern Leaf Blight,Tumakuru,High,12.2,Farmer report,Synthetic sample record for academic demonstration
+R00671,2025-08-31,Apple,Apple Scab,Mysuru,Low,20.3,Demo entry,Synthetic sample record for academic demonstration
+R00174,2025-09-02,Apple,Black Rot,Mysuru,Low,31.1,Farmer report,Synthetic sample record for academic demonstration
+R00085,2025-09-02,Tomato,Early Blight,Hassan,High,5.8,Demo entry,Synthetic sample record for academic demonstration
+R01187,2025-09-02,Chilli,Leaf Curl,Mysuru,Low,54.2,Farmer report,Synthetic sample record for academic demonstration
+R00114,2025-09-03,Maize,Northern Leaf Blight,Bengaluru Rural,Low,79.5,Farmer report,Synthetic sample record for academic demonstration
+R01100,2025-09-03,Potato,Late Blight,Mandya,Moderate,18.5,Demo entry,Synthetic sample record for academic demonstration
+R00563,2025-09-03,Potato,Late Blight,Mandya,Moderate,43.9,Demo entry,Synthetic sample record for academic demonstration
+R01068,2025-09-03,Grape,Black Rot,Mandya,Low,67.0,Farmer report,Synthetic sample record for academic demonstration
+R00836,2025-09-04,Grape,Esca,Tumakuru,Moderate,66.6,Demo entry,Synthetic sample record for academic demonstration
+R00099,2025-09-04,Maize,Common Rust,Chamarajanagar,Moderate,51.7,Field survey,Synthetic sample record for academic demonstration
+R00116,2025-09-04,Tomato,Healthy,Belagavi,Low,0.7,Field survey,Synthetic sample record for academic demonstration
+R00849,2025-09-04,Chilli,Leaf Curl,Chamarajanagar,Moderate,45.1,Demo entry,Synthetic sample record for academic demonstration
+R00511,2025-09-05,Maize,Common Rust,Hassan,Moderate,47.0,Field survey,Synthetic sample record for academic demonstration
+R00995,2025-09-05,Grape,Black Rot,Hassan,High,80.6,Field survey,Synthetic sample record for academic demonstration
+R00545,2025-09-05,Grape,Healthy,Bengaluru Rural,Low,3.5,Field survey,Synthetic sample record for academic demonstration
+R00762,2025-09-05,Apple,Apple Scab,Mysuru,Low,60.3,Demo entry,Synthetic sample record for academic demonstration
+R01067,2025-09-05,Apple,Cedar Apple Rust,Chamarajanagar,Low,10.7,Demo entry,Synthetic sample record for academic demonstration
+R00677,2025-09-06,Chilli,Healthy,Hassan,Low,2.8,Field survey,Synthetic sample record for academic demonstration
+R00477,2025-09-06,Potato,Healthy,Mandya,Low,0.6,Field survey,Synthetic sample record for academic demonstration
+R00221,2025-09-07,Maize,Northern Leaf Blight,Mysuru,High,37.6,Farmer report,Synthetic sample record for academic demonstration
+R01158,2025-09-07,Chilli,Anthracnose,Belagavi,High,22.5,Farmer report,Synthetic sample record for academic demonstration
+R00782,2025-09-08,Potato,Late Blight,Hassan,Low,51.5,Demo entry,Synthetic sample record for academic demonstration
+R00156,2025-09-09,Tomato,Early Blight,Mandya,High,13.6,Farmer report,Synthetic sample record for academic demonstration
+R01181,2025-09-09,Apple,Apple Scab,Belagavi,Moderate,31.7,Farmer report,Synthetic sample record for academic demonstration
+R00588,2025-09-09,Maize,Gray Leaf Spot,Chamarajanagar,Low,63.6,Demo entry,Synthetic sample record for academic demonstration
+R01081,2025-09-09,Grape,Black Rot,Hassan,Low,65.6,Farmer report,Synthetic sample record for academic demonstration
+R00726,2025-09-09,Grape,Black Rot,Dharwad,High,61.8,Demo entry,Synthetic sample record for academic demonstration
+R00540,2025-09-09,Chilli,Healthy,Dharwad,Low,0.9,Field survey,Synthetic sample record for academic demonstration
+R00320,2025-09-09,Potato,Healthy,Belagavi,Low,0.6,Demo entry,Synthetic sample record for academic demonstration
+R00809,2025-09-09,Chilli,Healthy,Belagavi,Low,2.7,Demo entry,Synthetic sample record for academic demonstration
+R00769,2025-09-10,Maize,Healthy,Chamarajanagar,Low,0.8,Demo entry,Synthetic sample record for academic demonstration
+R00533,2025-09-10,Apple,Black Rot,Chamarajanagar,Low,58.2,Farmer report,Synthetic sample record for academic demonstration
+R00436,2025-09-10,Apple,Apple Scab,Chamarajanagar,High,37.7,Demo entry,Synthetic sample record for academic demonstration
+R00621,2025-09-10,Apple,Cedar Apple Rust,Dharwad,High,12.1,Demo entry,Synthetic sample record for academic demonstration
+R00672,2025-09-11,Tomato,Bacterial Spot,Chamarajanagar,Moderate,79.5,Demo entry,Synthetic sample record for academic demonstration
+R01043,2025-09-11,Tomato,Late Blight,Mysuru,Low,15.8,Field survey,Synthetic sample record for academic demonstration
+R01103,2025-09-11,Apple,Healthy,Dharwad,Low,2.2,Farmer report,Synthetic sample record for academic demonstration
+R00585,2025-09-12,Potato,Late Blight,Tumakuru,Low,9.5,Demo entry,Synthetic sample record for academic demonstration
+R00559,2025-09-13,Chilli,Anthracnose,Mysuru,Low,12.5,Farmer report,Synthetic sample record for academic demonstration
+R00604,2025-09-13,Potato,Early Blight,Tumakuru,Moderate,62.5,Demo entry,Synthetic sample record for academic demonstration
+R00833,2025-09-13,Maize,Northern Leaf Blight,Dharwad,Moderate,50.1,Demo entry,Synthetic sample record for academic demonstration
+R00115,2025-09-13,Potato,Late Blight,Belagavi,Moderate,53.1,Demo entry,Synthetic sample record for academic demonstration
+R00634,2025-09-13,Grape,Black Rot,Belagavi,Moderate,40.2,Farmer report,Synthetic sample record for academic demonstration
+R00886,2025-09-13,Chilli,Healthy,Chamarajanagar,Low,0.3,Farmer report,Synthetic sample record for academic demonstration
+R00508,2025-09-13,Apple,Cedar Apple Rust,Chamarajanagar,Low,53.6,Field survey,Synthetic sample record for academic demonstration
+R00360,2025-09-13,Tomato,Early Blight,Bengaluru Rural,Moderate,14.3,Field survey,Synthetic sample record for academic demonstration
+R00586,2025-09-14,Grape,Leaf Blight,Mandya,High,79.7,Field survey,Synthetic sample record for academic demonstration
+R00182,2025-09-14,Potato,Healthy,Mysuru,Low,4.1,Field survey,Synthetic sample record for academic demonstration
+R00084,2025-09-14,Potato,Early Blight,Chamarajanagar,Moderate,37.2,Field survey,Synthetic sample record for academic demonstration
+R00516,2025-09-14,Potato,Late Blight,Dharwad,Low,70.1,Demo entry,Synthetic sample record for academic demonstration
+R00598,2025-09-14,Grape,Esca,Bengaluru Rural,Moderate,66.7,Field survey,Synthetic sample record for academic demonstration
+R00987,2025-09-14,Maize,Healthy,Mandya,Low,3.0,Farmer report,Synthetic sample record for academic demonstration
+R00969,2025-09-14,Maize,Gray Leaf Spot,Belagavi,Low,62.1,Farmer report,Synthetic sample record for academic demonstration
+R00300,2025-09-15,Tomato,Early Blight,Belagavi,Moderate,73.7,Field survey,Synthetic sample record for academic demonstration
+R00129,2025-09-15,Potato,Healthy,Tumakuru,Low,4.8,Demo entry,Synthetic sample record for academic demonstration
+R01020,2025-09-15,Apple,Black Rot,Bengaluru Rural,Moderate,8.8,Demo entry,Synthetic sample record for academic demonstration
+R00456,2025-09-16,Chilli,Anthracnose,Mysuru,Moderate,60.3,Farmer report,Synthetic sample record for academic demonstration
+R01185,2025-09-16,Grape,Leaf Blight,Bengaluru Rural,High,36.4,Farmer report,Synthetic sample record for academic demonstration
+R00312,2025-09-16,Apple,Cedar Apple Rust,Hassan,Low,13.6,Field survey,Synthetic sample record for academic demonstration
+R00564,2025-09-16,Maize,Healthy,Bengaluru Rural,Low,1.2,Demo entry,Synthetic sample record for academic demonstration
+R00318,2025-09-16,Apple,Cedar Apple Rust,Bengaluru Rural,Moderate,38.9,Demo entry,Synthetic sample record for academic demonstration
+R00224,2025-09-16,Tomato,Septoria Leaf Spot,Mysuru,Moderate,52.0,Farmer report,Synthetic sample record for academic demonstration
+R01169,2025-09-17,Chilli,Healthy,Hassan,Low,2.6,Demo entry,Synthetic sample record for academic demonstration
+R00066,2025-09-18,Potato,Late Blight,Belagavi,Moderate,38.5,Field survey,Synthetic sample record for academic demonstration
+R00641,2025-09-19,Potato,Early Blight,Tumakuru,Moderate,50.7,Field survey,Synthetic sample record for academic demonstration
+R01154,2025-09-20,Apple,Black Rot,Tumakuru,Moderate,11.2,Demo entry,Synthetic sample record for academic demonstration
+R00983,2025-09-20,Grape,Black Rot,Chamarajanagar,Low,49.4,Demo entry,Synthetic sample record for academic demonstration
+R00365,2025-09-20,Apple,Apple Scab,Belagavi,Moderate,37.0,Demo entry,Synthetic sample record for academic demonstration
+R00248,2025-09-21,Chilli,Anthracnose,Mysuru,High,56.0,Farmer report,Synthetic sample record for academic demonstration
+R01049,2025-09-21,Grape,Esca,Mandya,Low,43.8,Field survey,Synthetic sample record for academic demonstration
+R00344,2025-09-21,Apple,Cedar Apple Rust,Bengaluru Rural,Low,69.0,Field survey,Synthetic sample record for academic demonstration
+R00017,2025-09-21,Tomato,Healthy,Dharwad,Low,4.1,Field survey,Synthetic sample record for academic demonstration
+R00393,2025-09-21,Tomato,Septoria Leaf Spot,Hassan,Moderate,18.6,Demo entry,Synthetic sample record for academic demonstration
+R00738,2025-09-23,Chilli,Leaf Curl,Bengaluru Rural,Low,48.8,Farmer report,Synthetic sample record for academic demonstration
+R00226,2025-09-23,Grape,Healthy,Hassan,Low,0.4,Field survey,Synthetic sample record for academic demonstration
+R00779,2025-09-23,Maize,Gray Leaf Spot,Belagavi,Moderate,42.9,Farmer report,Synthetic sample record for academic demonstration
+R00645,2025-09-24,Grape,Black Rot,Bengaluru Rural,Low,19.0,Demo entry,Synthetic sample record for academic demonstration
+R00895,2025-09-24,Apple,Healthy,Mandya,Low,3.7,Farmer report,Synthetic sample record for academic demonstration
+R00431,2025-09-24,Chilli,Anthracnose,Chamarajanagar,Low,75.5,Farmer report,Synthetic sample record for academic demonstration
+R00373,2025-09-24,Potato,Late Blight,Mysuru,Low,33.2,Farmer report,Synthetic sample record for academic demonstration
+R01126,2025-09-25,Grape,Leaf Blight,Belagavi,High,53.7,Farmer report,Synthetic sample record for academic demonstration
+R00539,2025-09-25,Tomato,Bacterial Spot,Mandya,Moderate,15.6,Demo entry,Synthetic sample record for academic demonstration
+R00910,2025-09-25,Tomato,Septoria Leaf Spot,Chamarajanagar,Moderate,29.9,Demo entry,Synthetic sample record for academic demonstration
+R01017,2025-09-25,Grape,Esca,Mysuru,High,59.0,Demo entry,Synthetic sample record for academic demonstration
+R00527,2025-09-25,Apple,Cedar Apple Rust,Dharwad,Low,6.6,Field survey,Synthetic sample record for academic demonstration
+R00722,2025-09-26,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,52.8,Farmer report,Synthetic sample record for academic demonstration
+R00081,2025-09-27,Tomato,Early Blight,Chamarajanagar,High,32.4,Demo entry,Synthetic sample record for academic demonstration
+R00951,2025-09-27,Grape,Healthy,Hassan,Low,0.2,Farmer report,Synthetic sample record for academic demonstration
+R00663,2025-09-27,Tomato,Early Blight,Belagavi,Moderate,45.2,Farmer report,Synthetic sample record for academic demonstration
+R01030,2025-09-27,Maize,Northern Leaf Blight,Chamarajanagar,Low,31.1,Farmer report,Synthetic sample record for academic demonstration
+R00124,2025-09-27,Apple,Apple Scab,Belagavi,High,84.6,Demo entry,Synthetic sample record for academic demonstration
+R00760,2025-09-27,Apple,Black Rot,Tumakuru,Moderate,35.8,Farmer report,Synthetic sample record for academic demonstration
+R00001,2025-09-28,Grape,Black Rot,Dharwad,Moderate,17.9,Demo entry,Synthetic sample record for academic demonstration
+R00823,2025-09-28,Tomato,Septoria Leaf Spot,Dharwad,High,23.0,Farmer report,Synthetic sample record for academic demonstration
+R00948,2025-09-29,Grape,Healthy,Tumakuru,Low,3.4,Farmer report,Synthetic sample record for academic demonstration
+R00204,2025-09-29,Maize,Common Rust,Belagavi,Low,27.0,Demo entry,Synthetic sample record for academic demonstration
+R00337,2025-09-29,Grape,Esca,Dharwad,High,67.5,Field survey,Synthetic sample record for academic demonstration
+R00939,2025-09-29,Potato,Early Blight,Belagavi,Moderate,33.9,Field survey,Synthetic sample record for academic demonstration
+R00235,2025-09-30,Maize,Gray Leaf Spot,Belagavi,Low,55.7,Demo entry,Synthetic sample record for academic demonstration
+R01061,2025-09-30,Apple,Cedar Apple Rust,Bengaluru Rural,Low,10.5,Field survey,Synthetic sample record for academic demonstration
+R01062,2025-09-30,Grape,Healthy,Tumakuru,Low,4.3,Field survey,Synthetic sample record for academic demonstration
+R00710,2025-09-30,Maize,Northern Leaf Blight,Mandya,High,19.3,Field survey,Synthetic sample record for academic demonstration
+R00492,2025-09-30,Grape,Black Rot,Chamarajanagar,Low,36.9,Field survey,Synthetic sample record for academic demonstration
+R01057,2025-10-01,Grape,Esca,Belagavi,Low,83.1,Field survey,Synthetic sample record for academic demonstration
+R00572,2025-10-01,Grape,Esca,Bengaluru Rural,Moderate,63.4,Field survey,Synthetic sample record for academic demonstration
+R00994,2025-10-02,Chilli,Anthracnose,Hassan,Moderate,9.3,Demo entry,Synthetic sample record for academic demonstration
+R00371,2025-10-03,Tomato,Bacterial Spot,Chamarajanagar,Low,19.8,Demo entry,Synthetic sample record for academic demonstration
+R01063,2025-10-03,Maize,Northern Leaf Blight,Chamarajanagar,Moderate,18.0,Farmer report,Synthetic sample record for academic demonstration
+R00713,2025-10-03,Chilli,Anthracnose,Chamarajanagar,High,34.6,Farmer report,Synthetic sample record for academic demonstration
+R00857,2025-10-04,Chilli,Leaf Curl,Dharwad,Moderate,14.5,Farmer report,Synthetic sample record for academic demonstration
+R00331,2025-10-04,Potato,Healthy,Hassan,Low,2.6,Field survey,Synthetic sample record for academic demonstration
+R00542,2025-10-04,Maize,Gray Leaf Spot,Mandya,High,32.4,Field survey,Synthetic sample record for academic demonstration
+R00981,2025-10-05,Maize,Gray Leaf Spot,Belagavi,Moderate,55.4,Demo entry,Synthetic sample record for academic demonstration
+R00982,2025-10-05,Potato,Healthy,Hassan,Low,3.5,Farmer report,Synthetic sample record for academic demonstration
+R00003,2025-10-05,Maize,Gray Leaf Spot,Mysuru,Low,22.2,Demo entry,Synthetic sample record for academic demonstration
+R00231,2025-10-05,Grape,Esca,Hassan,Low,51.8,Field survey,Synthetic sample record for academic demonstration
+R00841,2025-10-05,Grape,Esca,Hassan,Low,51.6,Farmer report,Synthetic sample record for academic demonstration
+R00441,2025-10-05,Apple,Cedar Apple Rust,Chamarajanagar,Low,51.9,Field survey,Synthetic sample record for academic demonstration
+R00346,2025-10-05,Grape,Esca,Hassan,Low,29.2,Farmer report,Synthetic sample record for academic demonstration
+R00466,2025-10-06,Tomato,Bacterial Spot,Bengaluru Rural,Moderate,55.7,Field survey,Synthetic sample record for academic demonstration
+R00837,2025-10-06,Tomato,Early Blight,Hassan,Moderate,85.0,Demo entry,Synthetic sample record for academic demonstration
+R00082,2025-10-06,Potato,Early Blight,Mandya,Moderate,73.7,Field survey,Synthetic sample record for academic demonstration
+R00567,2025-10-07,Grape,Healthy,Mysuru,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00581,2025-10-07,Potato,Healthy,Bengaluru Rural,Low,3.3,Demo entry,Synthetic sample record for academic demonstration
+R00582,2025-10-07,Apple,Black Rot,Chamarajanagar,Low,79.1,Farmer report,Synthetic sample record for academic demonstration
+R00718,2025-10-07,Tomato,Bacterial Spot,Tumakuru,Low,34.5,Field survey,Synthetic sample record for academic demonstration
+R00136,2025-10-07,Grape,Esca,Tumakuru,Low,17.7,Field survey,Synthetic sample record for academic demonstration
+R00207,2025-10-07,Apple,Black Rot,Belagavi,Low,68.1,Demo entry,Synthetic sample record for academic demonstration
+R01140,2025-10-07,Grape,Leaf Blight,Mandya,High,81.5,Farmer report,Synthetic sample record for academic demonstration
+R01097,2025-10-08,Potato,Healthy,Mandya,Low,2.1,Demo entry,Synthetic sample record for academic demonstration
+R00485,2025-10-08,Potato,Early Blight,Mandya,Low,52.1,Demo entry,Synthetic sample record for academic demonstration
+R01005,2025-10-08,Tomato,Healthy,Dharwad,Low,1.6,Farmer report,Synthetic sample record for academic demonstration
+R00696,2025-10-09,Tomato,Bacterial Spot,Mysuru,High,75.7,Demo entry,Synthetic sample record for academic demonstration
+R01073,2025-10-09,Apple,Black Rot,Belagavi,Moderate,42.8,Field survey,Synthetic sample record for academic demonstration
+R00686,2025-10-09,Tomato,Early Blight,Dharwad,Low,10.5,Field survey,Synthetic sample record for academic demonstration
+R01053,2025-10-09,Grape,Esca,Bengaluru Rural,Moderate,31.9,Field survey,Synthetic sample record for academic demonstration
+R00497,2025-10-09,Potato,Early Blight,Bengaluru Rural,High,84.1,Field survey,Synthetic sample record for academic demonstration
+R01196,2025-10-09,Maize,Common Rust,Belagavi,Moderate,21.9,Field survey,Synthetic sample record for academic demonstration
+R00900,2025-10-10,Chilli,Anthracnose,Chamarajanagar,Moderate,57.2,Demo entry,Synthetic sample record for academic demonstration
+R01047,2025-10-11,Apple,Black Rot,Mandya,High,76.4,Field survey,Synthetic sample record for academic demonstration
+R00958,2025-10-12,Tomato,Healthy,Bengaluru Rural,Low,3.1,Demo entry,Synthetic sample record for academic demonstration
+R00070,2025-10-13,Tomato,Late Blight,Dharwad,Low,49.2,Field survey,Synthetic sample record for academic demonstration
+R00355,2025-10-13,Tomato,Late Blight,Mysuru,Low,59.2,Field survey,Synthetic sample record for academic demonstration
+R00794,2025-10-13,Apple,Black Rot,Tumakuru,Low,10.3,Demo entry,Synthetic sample record for academic demonstration
+R00454,2025-10-14,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,13.2,Field survey,Synthetic sample record for academic demonstration
+R00667,2025-10-15,Grape,Black Rot,Chamarajanagar,Moderate,42.8,Demo entry,Synthetic sample record for academic demonstration
+R00310,2025-10-15,Tomato,Early Blight,Belagavi,Low,9.3,Demo entry,Synthetic sample record for academic demonstration
+R00267,2025-10-15,Apple,Cedar Apple Rust,Mandya,High,43.1,Demo entry,Synthetic sample record for academic demonstration
+R00098,2025-10-16,Chilli,Healthy,Belagavi,Low,3.5,Farmer report,Synthetic sample record for academic demonstration
+R00576,2025-10-16,Grape,Leaf Blight,Dharwad,Low,75.3,Field survey,Synthetic sample record for academic demonstration
+R00422,2025-10-16,Grape,Esca,Chamarajanagar,Moderate,58.2,Field survey,Synthetic sample record for academic demonstration
+R00698,2025-10-16,Potato,Early Blight,Hassan,High,21.4,Field survey,Synthetic sample record for academic demonstration
+R00138,2025-10-16,Maize,Common Rust,Mandya,Low,48.1,Farmer report,Synthetic sample record for academic demonstration
+R00683,2025-10-16,Potato,Healthy,Hassan,Low,3.1,Farmer report,Synthetic sample record for academic demonstration
+R00609,2025-10-17,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,10.4,Field survey,Synthetic sample record for academic demonstration
+R00486,2025-10-17,Maize,Gray Leaf Spot,Tumakuru,Moderate,70.5,Farmer report,Synthetic sample record for academic demonstration
+R00862,2025-10-17,Grape,Leaf Blight,Mandya,Moderate,12.2,Demo entry,Synthetic sample record for academic demonstration
+R00966,2025-10-18,Grape,Healthy,Mandya,Low,2.4,Farmer report,Synthetic sample record for academic demonstration
+R00548,2025-10-18,Tomato,Early Blight,Bengaluru Rural,Low,38.2,Farmer report,Synthetic sample record for academic demonstration
+R00210,2025-10-18,Tomato,Septoria Leaf Spot,Mandya,Low,30.4,Farmer report,Synthetic sample record for academic demonstration
+R00728,2025-10-18,Apple,Black Rot,Bengaluru Rural,Moderate,51.1,Demo entry,Synthetic sample record for academic demonstration
+R00353,2025-10-18,Tomato,Early Blight,Chamarajanagar,Low,54.3,Farmer report,Synthetic sample record for academic demonstration
+R00324,2025-10-19,Maize,Healthy,Belagavi,Low,0.9,Field survey,Synthetic sample record for academic demonstration
+R00445,2025-10-19,Chilli,Anthracnose,Bengaluru Rural,High,61.3,Demo entry,Synthetic sample record for academic demonstration
+R00865,2025-10-19,Tomato,Late Blight,Chamarajanagar,Moderate,42.7,Farmer report,Synthetic sample record for academic demonstration
+R00139,2025-10-19,Tomato,Healthy,Hassan,Low,3.6,Field survey,Synthetic sample record for academic demonstration
+R00923,2025-10-20,Grape,Esca,Tumakuru,High,56.8,Demo entry,Synthetic sample record for academic demonstration
+R00819,2025-10-21,Maize,Northern Leaf Blight,Chamarajanagar,Low,20.2,Farmer report,Synthetic sample record for academic demonstration
+R00773,2025-10-21,Chilli,Healthy,Belagavi,Low,0.4,Field survey,Synthetic sample record for academic demonstration
+R00691,2025-10-21,Chilli,Healthy,Dharwad,Low,2.5,Demo entry,Synthetic sample record for academic demonstration
+R00513,2025-10-22,Tomato,Healthy,Tumakuru,Low,1.4,Field survey,Synthetic sample record for academic demonstration
+R00019,2025-10-22,Tomato,Late Blight,Dharwad,Moderate,33.7,Demo entry,Synthetic sample record for academic demonstration
+R01112,2025-10-22,Tomato,Late Blight,Belagavi,High,14.5,Field survey,Synthetic sample record for academic demonstration
+R00410,2025-10-22,Chilli,Anthracnose,Mandya,High,34.5,Farmer report,Synthetic sample record for academic demonstration
+R00943,2025-10-22,Chilli,Anthracnose,Mandya,Low,62.9,Farmer report,Synthetic sample record for academic demonstration
+R00428,2025-10-23,Potato,Early Blight,Tumakuru,Low,33.5,Farmer report,Synthetic sample record for academic demonstration
+R01171,2025-10-23,Apple,Cedar Apple Rust,Mysuru,Low,76.8,Demo entry,Synthetic sample record for academic demonstration
+R00915,2025-10-23,Apple,Cedar Apple Rust,Mandya,Moderate,48.2,Field survey,Synthetic sample record for academic demonstration
+R00194,2025-10-23,Potato,Early Blight,Mysuru,Low,28.2,Demo entry,Synthetic sample record for academic demonstration
+R01101,2025-10-23,Tomato,Septoria Leaf Spot,Bengaluru Rural,Low,22.1,Field survey,Synthetic sample record for academic demonstration
+R00023,2025-10-23,Tomato,Healthy,Mysuru,Low,3.3,Demo entry,Synthetic sample record for academic demonstration
+R01015,2025-10-24,Potato,Late Blight,Dharwad,Low,71.1,Demo entry,Synthetic sample record for academic demonstration
+R00379,2025-10-24,Apple,Cedar Apple Rust,Bengaluru Rural,Low,47.6,Field survey,Synthetic sample record for academic demonstration
+R00340,2025-10-24,Tomato,Bacterial Spot,Chamarajanagar,Low,82.2,Field survey,Synthetic sample record for academic demonstration
+R01099,2025-10-24,Chilli,Leaf Curl,Chamarajanagar,Moderate,22.3,Field survey,Synthetic sample record for academic demonstration
+R00618,2025-10-24,Apple,Black Rot,Belagavi,Low,54.5,Farmer report,Synthetic sample record for academic demonstration
+R00730,2025-10-25,Potato,Early Blight,Bengaluru Rural,Low,61.9,Demo entry,Synthetic sample record for academic demonstration
+R00091,2025-10-25,Tomato,Septoria Leaf Spot,Belagavi,Moderate,71.6,Farmer report,Synthetic sample record for academic demonstration
+R00761,2025-10-25,Apple,Healthy,Chamarajanagar,Low,5.0,Field survey,Synthetic sample record for academic demonstration
+R00602,2025-10-26,Tomato,Early Blight,Bengaluru Rural,High,81.6,Field survey,Synthetic sample record for academic demonstration
+R00468,2025-10-26,Tomato,Late Blight,Tumakuru,Low,78.7,Demo entry,Synthetic sample record for academic demonstration
+R00792,2025-10-26,Potato,Early Blight,Dharwad,Moderate,24.0,Field survey,Synthetic sample record for academic demonstration
+R01044,2025-10-26,Apple,Apple Scab,Chamarajanagar,Moderate,20.6,Demo entry,Synthetic sample record for academic demonstration
+R00684,2025-10-27,Potato,Early Blight,Tumakuru,High,26.2,Farmer report,Synthetic sample record for academic demonstration
+R00880,2025-10-28,Grape,Esca,Dharwad,Low,33.3,Demo entry,Synthetic sample record for academic demonstration
+R00205,2025-10-28,Tomato,Septoria Leaf Spot,Belagavi,High,35.2,Demo entry,Synthetic sample record for academic demonstration
+R01002,2025-10-28,Apple,Cedar Apple Rust,Hassan,Moderate,61.9,Demo entry,Synthetic sample record for academic demonstration
+R00657,2025-10-28,Tomato,Septoria Leaf Spot,Mysuru,Low,62.4,Farmer report,Synthetic sample record for academic demonstration
+R01008,2025-10-29,Tomato,Healthy,Tumakuru,Low,4.4,Farmer report,Synthetic sample record for academic demonstration
+R00801,2025-10-29,Tomato,Bacterial Spot,Dharwad,Moderate,50.3,Demo entry,Synthetic sample record for academic demonstration
+R00797,2025-10-29,Chilli,Anthracnose,Chamarajanagar,Moderate,36.1,Demo entry,Synthetic sample record for academic demonstration
+R00142,2025-10-29,Potato,Healthy,Hassan,Low,3.1,Demo entry,Synthetic sample record for academic demonstration
+R01118,2025-10-29,Potato,Healthy,Mysuru,Low,2.5,Farmer report,Synthetic sample record for academic demonstration
+R00523,2025-10-30,Chilli,Healthy,Tumakuru,Low,5.0,Farmer report,Synthetic sample record for academic demonstration
+R00875,2025-10-30,Potato,Early Blight,Tumakuru,Moderate,20.0,Farmer report,Synthetic sample record for academic demonstration
+R00534,2025-10-30,Grape,Black Rot,Mandya,Moderate,41.5,Farmer report,Synthetic sample record for academic demonstration
+R00321,2025-10-30,Grape,Black Rot,Bengaluru Rural,Moderate,83.9,Field survey,Synthetic sample record for academic demonstration
+R00402,2025-10-31,Chilli,Leaf Curl,Bengaluru Rural,Moderate,50.2,Demo entry,Synthetic sample record for academic demonstration
+R00113,2025-10-31,Grape,Healthy,Chamarajanagar,Low,3.5,Demo entry,Synthetic sample record for academic demonstration
+R01012,2025-11-01,Maize,Healthy,Belagavi,Low,0.3,Farmer report,Synthetic sample record for academic demonstration
+R00095,2025-11-01,Grape,Esca,Belagavi,High,56.3,Demo entry,Synthetic sample record for academic demonstration
+R00501,2025-11-01,Chilli,Leaf Curl,Hassan,Moderate,11.3,Demo entry,Synthetic sample record for academic demonstration
+R01088,2025-11-02,Maize,Northern Leaf Blight,Bengaluru Rural,Low,76.3,Farmer report,Synthetic sample record for academic demonstration
+R01167,2025-11-02,Maize,Northern Leaf Blight,Chamarajanagar,High,81.1,Field survey,Synthetic sample record for academic demonstration
+R00488,2025-11-02,Chilli,Anthracnose,Mysuru,High,68.1,Farmer report,Synthetic sample record for academic demonstration
+R00537,2025-11-02,Potato,Late Blight,Hassan,Moderate,30.5,Field survey,Synthetic sample record for academic demonstration
+R00979,2025-11-02,Apple,Black Rot,Belagavi,Moderate,15.5,Demo entry,Synthetic sample record for academic demonstration
+R00299,2025-11-02,Tomato,Healthy,Belagavi,Low,2.5,Farmer report,Synthetic sample record for academic demonstration
+R00401,2025-11-03,Tomato,Early Blight,Tumakuru,Low,19.9,Demo entry,Synthetic sample record for academic demonstration
+R01180,2025-11-04,Grape,Esca,Mysuru,High,23.2,Field survey,Synthetic sample record for academic demonstration
+R00144,2025-11-04,Maize,Healthy,Dharwad,Low,1.8,Demo entry,Synthetic sample record for academic demonstration
+R00478,2025-11-04,Maize,Northern Leaf Blight,Dharwad,Moderate,50.8,Demo entry,Synthetic sample record for academic demonstration
+R00688,2025-11-05,Apple,Apple Scab,Hassan,Moderate,17.4,Field survey,Synthetic sample record for academic demonstration
+R00826,2025-11-05,Grape,Esca,Hassan,Moderate,80.4,Farmer report,Synthetic sample record for academic demonstration
+R01197,2025-11-05,Grape,Esca,Chamarajanagar,Moderate,37.3,Demo entry,Synthetic sample record for academic demonstration
+R00869,2025-11-05,Potato,Late Blight,Chamarajanagar,Low,35.2,Field survey,Synthetic sample record for academic demonstration
+R00947,2025-11-05,Grape,Leaf Blight,Hassan,Moderate,24.6,Demo entry,Synthetic sample record for academic demonstration
+R00002,2025-11-05,Apple,Apple Scab,Dharwad,Low,49.6,Farmer report,Synthetic sample record for academic demonstration
+R00989,2025-11-06,Maize,Common Rust,Bengaluru Rural,Low,16.1,Field survey,Synthetic sample record for academic demonstration
+R00716,2025-11-06,Maize,Healthy,Mandya,Low,4.7,Field survey,Synthetic sample record for academic demonstration
+R01095,2025-11-07,Tomato,Septoria Leaf Spot,Mandya,Moderate,7.9,Demo entry,Synthetic sample record for academic demonstration
+R00179,2025-11-07,Tomato,Healthy,Mandya,Low,3.2,Demo entry,Synthetic sample record for academic demonstration
+R00181,2025-11-07,Maize,Healthy,Dharwad,Low,0.7,Farmer report,Synthetic sample record for academic demonstration
+R00163,2025-11-07,Apple,Apple Scab,Bengaluru Rural,Low,39.5,Field survey,Synthetic sample record for academic demonstration
+R00770,2025-11-08,Tomato,Late Blight,Mandya,Low,51.5,Demo entry,Synthetic sample record for academic demonstration
+R00309,2025-11-09,Potato,Early Blight,Chamarajanagar,Moderate,78.9,Farmer report,Synthetic sample record for academic demonstration
+R00727,2025-11-09,Tomato,Septoria Leaf Spot,Mandya,Low,22.0,Farmer report,Synthetic sample record for academic demonstration
+R00437,2025-11-09,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,40.3,Demo entry,Synthetic sample record for academic demonstration
+R00403,2025-11-09,Tomato,Bacterial Spot,Bengaluru Rural,Moderate,27.7,Field survey,Synthetic sample record for academic demonstration
+R00416,2025-11-10,Tomato,Bacterial Spot,Belagavi,Low,43.1,Field survey,Synthetic sample record for academic demonstration
+R00805,2025-11-11,Chilli,Anthracnose,Dharwad,High,77.2,Field survey,Synthetic sample record for academic demonstration
+R00062,2025-11-11,Tomato,Early Blight,Bengaluru Rural,Moderate,55.0,Demo entry,Synthetic sample record for academic demonstration
+R00914,2025-11-12,Potato,Early Blight,Dharwad,Low,75.5,Field survey,Synthetic sample record for academic demonstration
+R00711,2025-11-12,Apple,Black Rot,Hassan,Moderate,49.7,Field survey,Synthetic sample record for academic demonstration
+R00094,2025-11-12,Maize,Healthy,Dharwad,Low,3.2,Farmer report,Synthetic sample record for academic demonstration
+R01009,2025-11-12,Potato,Late Blight,Chamarajanagar,Low,12.1,Farmer report,Synthetic sample record for academic demonstration
+R00525,2025-11-12,Tomato,Bacterial Spot,Belagavi,Moderate,27.9,Farmer report,Synthetic sample record for academic demonstration
+R00335,2025-11-12,Apple,Apple Scab,Mandya,High,29.6,Farmer report,Synthetic sample record for academic demonstration
+R00092,2025-11-13,Maize,Northern Leaf Blight,Belagavi,Moderate,51.0,Field survey,Synthetic sample record for academic demonstration
+R00990,2025-11-15,Chilli,Anthracnose,Tumakuru,Low,81.1,Field survey,Synthetic sample record for academic demonstration
+R00941,2025-11-15,Apple,Cedar Apple Rust,Bengaluru Rural,Low,58.7,Field survey,Synthetic sample record for academic demonstration
+R00313,2025-11-16,Potato,Early Blight,Tumakuru,Moderate,23.1,Field survey,Synthetic sample record for academic demonstration
+R00206,2025-11-16,Tomato,Early Blight,Belagavi,Low,51.6,Farmer report,Synthetic sample record for academic demonstration
+R00130,2025-11-16,Apple,Apple Scab,Chamarajanagar,High,26.5,Field survey,Synthetic sample record for academic demonstration
+R00831,2025-11-17,Potato,Late Blight,Bengaluru Rural,Low,59.9,Demo entry,Synthetic sample record for academic demonstration
+R01013,2025-11-17,Apple,Apple Scab,Hassan,Low,48.6,Farmer report,Synthetic sample record for academic demonstration
+R00591,2025-11-17,Apple,Apple Scab,Tumakuru,Low,65.1,Farmer report,Synthetic sample record for academic demonstration
+R00418,2025-11-18,Grape,Leaf Blight,Mandya,Moderate,41.7,Demo entry,Synthetic sample record for academic demonstration
+R00279,2025-11-20,Grape,Black Rot,Tumakuru,Moderate,64.6,Farmer report,Synthetic sample record for academic demonstration
+R00863,2025-11-20,Apple,Black Rot,Bengaluru Rural,Moderate,15.9,Demo entry,Synthetic sample record for academic demonstration
+R01074,2025-11-20,Tomato,Septoria Leaf Spot,Tumakuru,Low,18.4,Farmer report,Synthetic sample record for academic demonstration
+R00851,2025-11-21,Potato,Early Blight,Belagavi,Low,45.0,Field survey,Synthetic sample record for academic demonstration
+R00135,2025-11-21,Apple,Cedar Apple Rust,Dharwad,Moderate,11.3,Demo entry,Synthetic sample record for academic demonstration
+R00518,2025-11-21,Grape,Esca,Dharwad,Moderate,44.9,Field survey,Synthetic sample record for academic demonstration
+R00302,2025-11-23,Potato,Late Blight,Tumakuru,High,17.4,Demo entry,Synthetic sample record for academic demonstration
+R00216,2025-11-23,Grape,Esca,Mysuru,Moderate,14.7,Field survey,Synthetic sample record for academic demonstration
+R00967,2025-11-24,Tomato,Late Blight,Belagavi,Moderate,82.7,Farmer report,Synthetic sample record for academic demonstration
+R00071,2025-11-24,Tomato,Late Blight,Mandya,Moderate,70.1,Field survey,Synthetic sample record for academic demonstration
+R00258,2025-11-24,Apple,Black Rot,Mysuru,Low,36.5,Field survey,Synthetic sample record for academic demonstration
+R00512,2025-11-25,Chilli,Healthy,Dharwad,Low,0.7,Farmer report,Synthetic sample record for academic demonstration
+R01198,2025-11-25,Grape,Leaf Blight,Dharwad,High,13.9,Field survey,Synthetic sample record for academic demonstration
+R00676,2025-11-25,Tomato,Septoria Leaf Spot,Mandya,Moderate,79.7,Demo entry,Synthetic sample record for academic demonstration
+R01084,2025-11-25,Potato,Healthy,Mysuru,Low,1.7,Field survey,Synthetic sample record for academic demonstration
+R01182,2025-11-25,Potato,Late Blight,Belagavi,Moderate,24.8,Field survey,Synthetic sample record for academic demonstration
+R00877,2025-11-26,Tomato,Septoria Leaf Spot,Chamarajanagar,Moderate,71.2,Farmer report,Synthetic sample record for academic demonstration
+R00064,2025-11-26,Grape,Healthy,Mandya,Low,0.8,Farmer report,Synthetic sample record for academic demonstration
+R01000,2025-11-26,Apple,Apple Scab,Tumakuru,Moderate,43.4,Farmer report,Synthetic sample record for academic demonstration
+R00543,2025-11-27,Grape,Esca,Chamarajanagar,Low,63.5,Demo entry,Synthetic sample record for academic demonstration
+R00395,2025-11-27,Maize,Gray Leaf Spot,Chamarajanagar,High,73.9,Farmer report,Synthetic sample record for academic demonstration
+R00060,2025-11-27,Potato,Early Blight,Mandya,Low,25.8,Farmer report,Synthetic sample record for academic demonstration
+R00067,2025-11-27,Tomato,Late Blight,Bengaluru Rural,Moderate,74.9,Demo entry,Synthetic sample record for academic demonstration
+R01145,2025-11-28,Grape,Black Rot,Chamarajanagar,Low,70.8,Demo entry,Synthetic sample record for academic demonstration
+R01083,2025-11-28,Maize,Northern Leaf Blight,Belagavi,Low,59.9,Demo entry,Synthetic sample record for academic demonstration
+R00791,2025-11-28,Potato,Healthy,Bengaluru Rural,Low,0.7,Farmer report,Synthetic sample record for academic demonstration
+R00049,2025-11-28,Apple,Cedar Apple Rust,Belagavi,Moderate,60.9,Field survey,Synthetic sample record for academic demonstration
+R00147,2025-11-28,Maize,Gray Leaf Spot,Hassan,Low,51.7,Field survey,Synthetic sample record for academic demonstration
+R00531,2025-11-29,Maize,Healthy,Bengaluru Rural,Low,2.3,Farmer report,Synthetic sample record for academic demonstration
+R01194,2025-11-29,Chilli,Anthracnose,Chamarajanagar,Moderate,20.1,Field survey,Synthetic sample record for academic demonstration
+R00349,2025-11-29,Chilli,Leaf Curl,Tumakuru,Moderate,74.1,Field survey,Synthetic sample record for academic demonstration
+R00364,2025-11-30,Tomato,Septoria Leaf Spot,Belagavi,Moderate,67.3,Demo entry,Synthetic sample record for academic demonstration
+R00936,2025-11-30,Chilli,Healthy,Belagavi,Low,0.4,Demo entry,Synthetic sample record for academic demonstration
+R00470,2025-11-30,Tomato,Healthy,Dharwad,Low,3.6,Field survey,Synthetic sample record for academic demonstration
+R00481,2025-11-30,Potato,Early Blight,Bengaluru Rural,Moderate,54.2,Demo entry,Synthetic sample record for academic demonstration
+R01018,2025-11-30,Apple,Apple Scab,Bengaluru Rural,Moderate,35.5,Field survey,Synthetic sample record for academic demonstration
+R01096,2025-12-01,Apple,Black Rot,Hassan,Moderate,63.8,Field survey,Synthetic sample record for academic demonstration
+R00363,2025-12-01,Chilli,Leaf Curl,Bengaluru Rural,High,59.9,Field survey,Synthetic sample record for academic demonstration
+R00005,2025-12-01,Grape,Esca,Mysuru,Low,53.9,Farmer report,Synthetic sample record for academic demonstration
+R00133,2025-12-01,Tomato,Late Blight,Hassan,High,53.5,Farmer report,Synthetic sample record for academic demonstration
+R00018,2025-12-02,Chilli,Healthy,Mysuru,Low,2.0,Field survey,Synthetic sample record for academic demonstration
+R00650,2025-12-02,Tomato,Early Blight,Belagavi,Moderate,47.0,Farmer report,Synthetic sample record for academic demonstration
+R00536,2025-12-02,Potato,Late Blight,Dharwad,Moderate,30.5,Farmer report,Synthetic sample record for academic demonstration
+R00195,2025-12-02,Potato,Healthy,Hassan,Low,0.1,Farmer report,Synthetic sample record for academic demonstration
+R00287,2025-12-02,Apple,Cedar Apple Rust,Hassan,Moderate,10.1,Field survey,Synthetic sample record for academic demonstration
+R00855,2025-12-02,Chilli,Leaf Curl,Mysuru,Low,78.2,Farmer report,Synthetic sample record for academic demonstration
+R00406,2025-12-02,Grape,Leaf Blight,Mysuru,Moderate,29.9,Field survey,Synthetic sample record for academic demonstration
+R00166,2025-12-02,Apple,Apple Scab,Belagavi,Moderate,50.2,Demo entry,Synthetic sample record for academic demonstration
+R00480,2025-12-02,Grape,Healthy,Mysuru,Low,0.2,Field survey,Synthetic sample record for academic demonstration
+R00063,2025-12-03,Grape,Black Rot,Hassan,Low,48.6,Field survey,Synthetic sample record for academic demonstration
+R00449,2025-12-03,Grape,Black Rot,Tumakuru,Moderate,7.5,Field survey,Synthetic sample record for academic demonstration
+R00072,2025-12-04,Maize,Healthy,Chamarajanagar,Low,0.7,Field survey,Synthetic sample record for academic demonstration
+R00029,2025-12-04,Maize,Gray Leaf Spot,Chamarajanagar,Moderate,77.7,Field survey,Synthetic sample record for academic demonstration
+R01107,2025-12-04,Apple,Cedar Apple Rust,Dharwad,Moderate,53.1,Farmer report,Synthetic sample record for academic demonstration
+R01149,2025-12-05,Potato,Early Blight,Hassan,Moderate,39.0,Farmer report,Synthetic sample record for academic demonstration
+R01163,2025-12-05,Maize,Gray Leaf Spot,Belagavi,Low,42.7,Field survey,Synthetic sample record for academic demonstration
+R00286,2025-12-05,Chilli,Anthracnose,Tumakuru,Moderate,55.0,Field survey,Synthetic sample record for academic demonstration
+R00689,2025-12-05,Chilli,Anthracnose,Mandya,Moderate,45.8,Demo entry,Synthetic sample record for academic demonstration
+R00432,2025-12-05,Chilli,Anthracnose,Chamarajanagar,High,32.6,Demo entry,Synthetic sample record for academic demonstration
+R01200,2025-12-06,Apple,Black Rot,Chamarajanagar,Low,56.0,Demo entry,Synthetic sample record for academic demonstration
+R00905,2025-12-06,Apple,Apple Scab,Bengaluru Rural,Moderate,84.3,Demo entry,Synthetic sample record for academic demonstration
+R00277,2025-12-06,Grape,Healthy,Belagavi,Low,0.9,Farmer report,Synthetic sample record for academic demonstration
+R00860,2025-12-06,Apple,Healthy,Dharwad,Low,2.0,Farmer report,Synthetic sample record for academic demonstration
+R00592,2025-12-06,Tomato,Septoria Leaf Spot,Hassan,Moderate,9.7,Farmer report,Synthetic sample record for academic demonstration
+R00244,2025-12-07,Potato,Early Blight,Tumakuru,Moderate,54.6,Demo entry,Synthetic sample record for academic demonstration
+R00961,2025-12-08,Apple,Apple Scab,Bengaluru Rural,Moderate,43.8,Field survey,Synthetic sample record for academic demonstration
+R01137,2025-12-08,Maize,Healthy,Chamarajanagar,Low,3.3,Field survey,Synthetic sample record for academic demonstration
+R00111,2025-12-08,Tomato,Late Blight,Dharwad,Moderate,75.6,Field survey,Synthetic sample record for academic demonstration
+R00326,2025-12-08,Potato,Late Blight,Hassan,Moderate,31.2,Field survey,Synthetic sample record for academic demonstration
+R00218,2025-12-08,Grape,Healthy,Bengaluru Rural,Low,3.5,Demo entry,Synthetic sample record for academic demonstration
+R00509,2025-12-09,Maize,Healthy,Tumakuru,Low,1.5,Farmer report,Synthetic sample record for academic demonstration
+R00357,2025-12-09,Chilli,Leaf Curl,Dharwad,Low,13.9,Field survey,Synthetic sample record for academic demonstration
+R00041,2025-12-09,Grape,Black Rot,Chamarajanagar,Moderate,28.5,Field survey,Synthetic sample record for academic demonstration
+R00172,2025-12-09,Chilli,Leaf Curl,Dharwad,Moderate,67.1,Demo entry,Synthetic sample record for academic demonstration
+R00168,2025-12-09,Potato,Early Blight,Belagavi,Moderate,8.8,Demo entry,Synthetic sample record for academic demonstration
+R00414,2025-12-10,Grape,Healthy,Bengaluru Rural,Low,0.9,Farmer report,Synthetic sample record for academic demonstration
+R00366,2025-12-10,Grape,Leaf Blight,Chamarajanagar,High,14.0,Demo entry,Synthetic sample record for academic demonstration
+R00646,2025-12-10,Tomato,Healthy,Chamarajanagar,Low,2.1,Farmer report,Synthetic sample record for academic demonstration
+R00733,2025-12-10,Maize,Healthy,Belagavi,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00087,2025-12-10,Potato,Healthy,Bengaluru Rural,Low,1.9,Demo entry,Synthetic sample record for academic demonstration
+R00411,2025-12-11,Maize,Healthy,Belagavi,Low,1.6,Field survey,Synthetic sample record for academic demonstration
+R00208,2025-12-11,Tomato,Septoria Leaf Spot,Belagavi,Low,19.0,Farmer report,Synthetic sample record for academic demonstration
+R01023,2025-12-11,Tomato,Bacterial Spot,Chamarajanagar,Moderate,67.0,Field survey,Synthetic sample record for academic demonstration
+R00417,2025-12-12,Potato,Early Blight,Mandya,Moderate,32.3,Demo entry,Synthetic sample record for academic demonstration
+R00219,2025-12-12,Chilli,Leaf Curl,Mandya,Moderate,11.8,Farmer report,Synthetic sample record for academic demonstration
+R00505,2025-12-13,Tomato,Bacterial Spot,Hassan,Moderate,57.4,Demo entry,Synthetic sample record for academic demonstration
+R00587,2025-12-13,Grape,Black Rot,Hassan,High,57.4,Farmer report,Synthetic sample record for academic demonstration
+R01132,2025-12-13,Apple,Healthy,Belagavi,Low,4.8,Farmer report,Synthetic sample record for academic demonstration
+R00652,2025-12-14,Potato,Late Blight,Hassan,Moderate,24.2,Demo entry,Synthetic sample record for academic demonstration
+R00265,2025-12-14,Potato,Healthy,Mysuru,Low,5.0,Demo entry,Synthetic sample record for academic demonstration
+R00359,2025-12-14,Chilli,Anthracnose,Chamarajanagar,Low,82.3,Demo entry,Synthetic sample record for academic demonstration
+R00635,2025-12-15,Potato,Healthy,Mandya,Low,2.5,Field survey,Synthetic sample record for academic demonstration
+R00322,2025-12-15,Grape,Healthy,Chamarajanagar,Low,0.1,Farmer report,Synthetic sample record for academic demonstration
+R00911,2025-12-15,Maize,Healthy,Chamarajanagar,Low,4.2,Farmer report,Synthetic sample record for academic demonstration
+R00105,2025-12-16,Potato,Early Blight,Dharwad,Moderate,48.0,Demo entry,Synthetic sample record for academic demonstration
+R00415,2025-12-16,Apple,Apple Scab,Tumakuru,Moderate,38.2,Demo entry,Synthetic sample record for academic demonstration
+R00758,2025-12-16,Grape,Leaf Blight,Chamarajanagar,High,77.5,Field survey,Synthetic sample record for academic demonstration
+R00199,2025-12-16,Chilli,Leaf Curl,Belagavi,Low,78.8,Demo entry,Synthetic sample record for academic demonstration
+R00209,2025-12-20,Maize,Northern Leaf Blight,Mandya,Low,29.6,Field survey,Synthetic sample record for academic demonstration
+R01165,2025-12-20,Tomato,Septoria Leaf Spot,Hassan,Moderate,31.1,Field survey,Synthetic sample record for academic demonstration
+R00254,2025-12-20,Tomato,Bacterial Spot,Chamarajanagar,Low,82.5,Demo entry,Synthetic sample record for academic demonstration
+R00747,2025-12-21,Potato,Late Blight,Bengaluru Rural,Low,49.4,Demo entry,Synthetic sample record for academic demonstration
+R00940,2025-12-21,Potato,Early Blight,Belagavi,Moderate,45.5,Farmer report,Synthetic sample record for academic demonstration
+R00679,2025-12-21,Tomato,Healthy,Mysuru,Low,4.1,Demo entry,Synthetic sample record for academic demonstration
+R00812,2025-12-21,Maize,Healthy,Mysuru,Low,1.1,Field survey,Synthetic sample record for academic demonstration
+R01130,2025-12-21,Grape,Esca,Hassan,High,72.3,Farmer report,Synthetic sample record for academic demonstration
+R00328,2025-12-22,Grape,Leaf Blight,Chamarajanagar,Moderate,82.1,Demo entry,Synthetic sample record for academic demonstration
+R00444,2025-12-22,Maize,Northern Leaf Blight,Hassan,Moderate,67.2,Farmer report,Synthetic sample record for academic demonstration
+R01069,2025-12-22,Grape,Healthy,Chamarajanagar,Low,0.4,Field survey,Synthetic sample record for academic demonstration
+R00840,2025-12-22,Maize,Gray Leaf Spot,Mysuru,Moderate,72.0,Demo entry,Synthetic sample record for academic demonstration
+R00720,2025-12-22,Potato,Late Blight,Bengaluru Rural,Low,81.5,Field survey,Synthetic sample record for academic demonstration
+R00262,2025-12-22,Chilli,Anthracnose,Bengaluru Rural,Moderate,7.1,Farmer report,Synthetic sample record for academic demonstration
+R00161,2025-12-23,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,16.2,Demo entry,Synthetic sample record for academic demonstration
+R00643,2025-12-23,Tomato,Healthy,Chamarajanagar,Low,0.4,Demo entry,Synthetic sample record for academic demonstration
+R01184,2025-12-23,Maize,Northern Leaf Blight,Bengaluru Rural,Moderate,34.7,Demo entry,Synthetic sample record for academic demonstration
+R00173,2025-12-24,Maize,Healthy,Hassan,Low,3.3,Farmer report,Synthetic sample record for academic demonstration
+R00629,2025-12-24,Potato,Healthy,Belagavi,Low,2.6,Field survey,Synthetic sample record for academic demonstration
+R00031,2025-12-25,Chilli,Leaf Curl,Belagavi,Low,18.7,Farmer report,Synthetic sample record for academic demonstration
+R00892,2025-12-25,Chilli,Healthy,Mysuru,Low,2.3,Field survey,Synthetic sample record for academic demonstration
+R00487,2025-12-25,Chilli,Leaf Curl,Mysuru,High,10.1,Farmer report,Synthetic sample record for academic demonstration
+R00714,2025-12-26,Maize,Northern Leaf Blight,Chamarajanagar,Low,83.2,Farmer report,Synthetic sample record for academic demonstration
+R01039,2025-12-26,Apple,Cedar Apple Rust,Dharwad,Low,57.9,Farmer report,Synthetic sample record for academic demonstration
+R00394,2025-12-26,Grape,Healthy,Belagavi,Low,3.4,Demo entry,Synthetic sample record for academic demonstration
+R00785,2025-12-26,Chilli,Anthracnose,Belagavi,High,57.6,Demo entry,Synthetic sample record for academic demonstration
+R00131,2025-12-27,Maize,Healthy,Bengaluru Rural,Low,2.1,Demo entry,Synthetic sample record for academic demonstration
+R00341,2025-12-28,Chilli,Leaf Curl,Tumakuru,Moderate,70.0,Field survey,Synthetic sample record for academic demonstration
+R00352,2025-12-28,Tomato,Early Blight,Tumakuru,Moderate,67.2,Demo entry,Synthetic sample record for academic demonstration
+R00578,2025-12-28,Chilli,Healthy,Tumakuru,Low,0.1,Farmer report,Synthetic sample record for academic demonstration
+R01142,2025-12-29,Chilli,Healthy,Tumakuru,Low,1.4,Field survey,Synthetic sample record for academic demonstration
+R00739,2025-12-29,Apple,Black Rot,Mandya,Moderate,73.9,Field survey,Synthetic sample record for academic demonstration
+R00788,2025-12-29,Tomato,Healthy,Chamarajanagar,Low,0.3,Demo entry,Synthetic sample record for academic demonstration
+R00483,2025-12-29,Chilli,Healthy,Bengaluru Rural,Low,3.4,Farmer report,Synthetic sample record for academic demonstration
+R00847,2025-12-30,Chilli,Healthy,Tumakuru,Low,3.1,Demo entry,Synthetic sample record for academic demonstration
+R00225,2025-12-31,Apple,Healthy,Mysuru,Low,3.7,Farmer report,Synthetic sample record for academic demonstration
